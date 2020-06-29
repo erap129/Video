@@ -1,0 +1,2113 @@
+<p>State Weekly Claims for Unemplyment Insurance Data Not Seasonally Adjusted</p>
+<br />
+<table width="738" border="0" summary="r539cy Report Table">
+	<tr><td id="noinfo" colspan="10" axis="No Information available"></td></tr>
+	<tr bgcolor='#d9d9d9'>
+		<th id="State" width="180" align=left>State</th>
+		<th id="Filed_week_ended" width="105" align="right">Filed week ended</th>
+		<th id="initial_claims" width="50" align="right">Initial Claims</th>
+		<th id="reflecting_week_ended" width="103" align="right">Reflecting Week Ended</th>
+		<th id="continued_claims" width="80" align="right">Continued Claims</th>
+		<th id="cov_employment" width="100" align="right">Covered Employment</th>
+		<th id="Insured_unemployment_rate" width="120" align="right">Insured Unemployment Rate</th>
+	</tr>
+	
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="01/02/2016" align=right>01/02/2016</th>
+<td headers="New Jersey 01/02/2016 initial_claims" align=right>19,836</td>
+<td headers="New Jersey 01/02/2016 reflecting_week_ended" align=right>12/26/2015</td>
+<td headers="New Jersey 01/02/2016 continued_claims" align=right>112,157</td>
+<td headers="New Jersey 01/02/2016 covered_employment" align=right>3,804,963</td>
+<td headers="New Jersey 01/02/2016 insured_unemployment" align=right>2.95</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="01/09/2016" align=right>01/09/2016</th>
+<td headers="New Jersey 01/09/2016 initial_claims" align=right>19,138</td>
+<td headers="New Jersey 01/09/2016 reflecting_week_ended" align=right>01/02/2016</td>
+<td headers="New Jersey 01/09/2016 continued_claims" align=right>132,895</td>
+<td headers="New Jersey 01/09/2016 covered_employment" align=right>3,815,989</td>
+<td headers="New Jersey 01/09/2016 insured_unemployment" align=right>3.48</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="01/16/2016" align=right>01/16/2016</th>
+<td headers="New Jersey 01/16/2016 initial_claims" align=right>14,047</td>
+<td headers="New Jersey 01/16/2016 reflecting_week_ended" align=right>01/09/2016</td>
+<td headers="New Jersey 01/16/2016 continued_claims" align=right>120,945</td>
+<td headers="New Jersey 01/16/2016 covered_employment" align=right>3,815,989</td>
+<td headers="New Jersey 01/16/2016 insured_unemployment" align=right>3.17</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="01/23/2016" align=right>01/23/2016</th>
+<td headers="New Jersey 01/23/2016 initial_claims" align=right>9,936</td>
+<td headers="New Jersey 01/23/2016 reflecting_week_ended" align=right>01/16/2016</td>
+<td headers="New Jersey 01/23/2016 continued_claims" align=right>121,620</td>
+<td headers="New Jersey 01/23/2016 covered_employment" align=right>3,815,989</td>
+<td headers="New Jersey 01/23/2016 insured_unemployment" align=right>3.19</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="01/30/2016" align=right>01/30/2016</th>
+<td headers="New Jersey 01/30/2016 initial_claims" align=right>12,065</td>
+<td headers="New Jersey 01/30/2016 reflecting_week_ended" align=right>01/23/2016</td>
+<td headers="New Jersey 01/30/2016 continued_claims" align=right>125,818</td>
+<td headers="New Jersey 01/30/2016 covered_employment" align=right>3,815,989</td>
+<td headers="New Jersey 01/30/2016 insured_unemployment" align=right>3.30</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="02/06/2016" align=right>02/06/2016</th>
+<td headers="New Jersey 02/06/2016 initial_claims" align=right>10,674</td>
+<td headers="New Jersey 02/06/2016 reflecting_week_ended" align=right>01/30/2016</td>
+<td headers="New Jersey 02/06/2016 continued_claims" align=right>129,377</td>
+<td headers="New Jersey 02/06/2016 covered_employment" align=right>3,815,989</td>
+<td headers="New Jersey 02/06/2016 insured_unemployment" align=right>3.39</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="02/13/2016" align=right>02/13/2016</th>
+<td headers="New Jersey 02/13/2016 initial_claims" align=right>9,473</td>
+<td headers="New Jersey 02/13/2016 reflecting_week_ended" align=right>02/06/2016</td>
+<td headers="New Jersey 02/13/2016 continued_claims" align=right>128,564</td>
+<td headers="New Jersey 02/13/2016 covered_employment" align=right>3,815,989</td>
+<td headers="New Jersey 02/13/2016 insured_unemployment" align=right>3.37</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="02/20/2016" align=right>02/20/2016</th>
+<td headers="New Jersey 02/20/2016 initial_claims" align=right>9,171</td>
+<td headers="New Jersey 02/20/2016 reflecting_week_ended" align=right>02/13/2016</td>
+<td headers="New Jersey 02/20/2016 continued_claims" align=right>127,128</td>
+<td headers="New Jersey 02/20/2016 covered_employment" align=right>3,815,989</td>
+<td headers="New Jersey 02/20/2016 insured_unemployment" align=right>3.33</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="02/27/2016" align=right>02/27/2016</th>
+<td headers="New Jersey 02/27/2016 initial_claims" align=right>9,059</td>
+<td headers="New Jersey 02/27/2016 reflecting_week_ended" align=right>02/20/2016</td>
+<td headers="New Jersey 02/27/2016 continued_claims" align=right>128,337</td>
+<td headers="New Jersey 02/27/2016 covered_employment" align=right>3,815,989</td>
+<td headers="New Jersey 02/27/2016 insured_unemployment" align=right>3.36</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="03/05/2016" align=right>03/05/2016</th>
+<td headers="New Jersey 03/05/2016 initial_claims" align=right>9,135</td>
+<td headers="New Jersey 03/05/2016 reflecting_week_ended" align=right>02/27/2016</td>
+<td headers="New Jersey 03/05/2016 continued_claims" align=right>125,559</td>
+<td headers="New Jersey 03/05/2016 covered_employment" align=right>3,815,989</td>
+<td headers="New Jersey 03/05/2016 insured_unemployment" align=right>3.29</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="03/12/2016" align=right>03/12/2016</th>
+<td headers="New Jersey 03/12/2016 initial_claims" align=right>8,056</td>
+<td headers="New Jersey 03/12/2016 reflecting_week_ended" align=right>03/05/2016</td>
+<td headers="New Jersey 03/12/2016 continued_claims" align=right>121,735</td>
+<td headers="New Jersey 03/12/2016 covered_employment" align=right>3,815,100</td>
+<td headers="New Jersey 03/12/2016 insured_unemployment" align=right>3.19</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="03/19/2016" align=right>03/19/2016</th>
+<td headers="New Jersey 03/19/2016 initial_claims" align=right>7,935</td>
+<td headers="New Jersey 03/19/2016 reflecting_week_ended" align=right>03/12/2016</td>
+<td headers="New Jersey 03/19/2016 continued_claims" align=right>117,879</td>
+<td headers="New Jersey 03/19/2016 covered_employment" align=right>3,815,100</td>
+<td headers="New Jersey 03/19/2016 insured_unemployment" align=right>3.09</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="03/26/2016" align=right>03/26/2016</th>
+<td headers="New Jersey 03/26/2016 initial_claims" align=right>9,392</td>
+<td headers="New Jersey 03/26/2016 reflecting_week_ended" align=right>03/19/2016</td>
+<td headers="New Jersey 03/26/2016 continued_claims" align=right>113,174</td>
+<td headers="New Jersey 03/26/2016 covered_employment" align=right>3,815,100</td>
+<td headers="New Jersey 03/26/2016 insured_unemployment" align=right>2.97</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="04/02/2016" align=right>04/02/2016</th>
+<td headers="New Jersey 04/02/2016 initial_claims" align=right>13,228</td>
+<td headers="New Jersey 04/02/2016 reflecting_week_ended" align=right>03/26/2016</td>
+<td headers="New Jersey 04/02/2016 continued_claims" align=right>111,877</td>
+<td headers="New Jersey 04/02/2016 covered_employment" align=right>3,815,100</td>
+<td headers="New Jersey 04/02/2016 insured_unemployment" align=right>2.93</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="04/09/2016" align=right>04/09/2016</th>
+<td headers="New Jersey 04/09/2016 initial_claims" align=right>10,619</td>
+<td headers="New Jersey 04/09/2016 reflecting_week_ended" align=right>04/02/2016</td>
+<td headers="New Jersey 04/09/2016 continued_claims" align=right>112,654</td>
+<td headers="New Jersey 04/09/2016 covered_employment" align=right>3,828,323</td>
+<td headers="New Jersey 04/09/2016 insured_unemployment" align=right>2.94</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="04/16/2016" align=right>04/16/2016</th>
+<td headers="New Jersey 04/16/2016 initial_claims" align=right>9,763</td>
+<td headers="New Jersey 04/16/2016 reflecting_week_ended" align=right>04/09/2016</td>
+<td headers="New Jersey 04/16/2016 continued_claims" align=right>102,509</td>
+<td headers="New Jersey 04/16/2016 covered_employment" align=right>3,828,323</td>
+<td headers="New Jersey 04/16/2016 insured_unemployment" align=right>2.68</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="04/23/2016" align=right>04/23/2016</th>
+<td headers="New Jersey 04/23/2016 initial_claims" align=right>8,475</td>
+<td headers="New Jersey 04/23/2016 reflecting_week_ended" align=right>04/16/2016</td>
+<td headers="New Jersey 04/23/2016 continued_claims" align=right>99,552</td>
+<td headers="New Jersey 04/23/2016 covered_employment" align=right>3,828,323</td>
+<td headers="New Jersey 04/23/2016 insured_unemployment" align=right>2.60</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="04/30/2016" align=right>04/30/2016</th>
+<td headers="New Jersey 04/30/2016 initial_claims" align=right>9,191</td>
+<td headers="New Jersey 04/30/2016 reflecting_week_ended" align=right>04/23/2016</td>
+<td headers="New Jersey 04/30/2016 continued_claims" align=right>95,171</td>
+<td headers="New Jersey 04/30/2016 covered_employment" align=right>3,828,199</td>
+<td headers="New Jersey 04/30/2016 insured_unemployment" align=right>2.49</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="05/07/2016" align=right>05/07/2016</th>
+<td headers="New Jersey 05/07/2016 initial_claims" align=right>9,084</td>
+<td headers="New Jersey 05/07/2016 reflecting_week_ended" align=right>04/30/2016</td>
+<td headers="New Jersey 05/07/2016 continued_claims" align=right>93,600</td>
+<td headers="New Jersey 05/07/2016 covered_employment" align=right>3,828,199</td>
+<td headers="New Jersey 05/07/2016 insured_unemployment" align=right>2.45</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="05/14/2016" align=right>05/14/2016</th>
+<td headers="New Jersey 05/14/2016 initial_claims" align=right>9,034</td>
+<td headers="New Jersey 05/14/2016 reflecting_week_ended" align=right>05/07/2016</td>
+<td headers="New Jersey 05/14/2016 continued_claims" align=right>92,248</td>
+<td headers="New Jersey 05/14/2016 covered_employment" align=right>3,828,199</td>
+<td headers="New Jersey 05/14/2016 insured_unemployment" align=right>2.41</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="05/21/2016" align=right>05/21/2016</th>
+<td headers="New Jersey 05/21/2016 initial_claims" align=right>8,233</td>
+<td headers="New Jersey 05/21/2016 reflecting_week_ended" align=right>05/14/2016</td>
+<td headers="New Jersey 05/21/2016 continued_claims" align=right>91,440</td>
+<td headers="New Jersey 05/21/2016 covered_employment" align=right>3,828,199</td>
+<td headers="New Jersey 05/21/2016 insured_unemployment" align=right>2.39</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="05/28/2016" align=right>05/28/2016</th>
+<td headers="New Jersey 05/28/2016 initial_claims" align=right>8,664</td>
+<td headers="New Jersey 05/28/2016 reflecting_week_ended" align=right>05/21/2016</td>
+<td headers="New Jersey 05/28/2016 continued_claims" align=right>89,202</td>
+<td headers="New Jersey 05/28/2016 covered_employment" align=right>3,828,199</td>
+<td headers="New Jersey 05/28/2016 insured_unemployment" align=right>2.33</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="06/04/2016" align=right>06/04/2016</th>
+<td headers="New Jersey 06/04/2016 initial_claims" align=right>7,450</td>
+<td headers="New Jersey 06/04/2016 reflecting_week_ended" align=right>05/28/2016</td>
+<td headers="New Jersey 06/04/2016 continued_claims" align=right>86,950</td>
+<td headers="New Jersey 06/04/2016 covered_employment" align=right>3,828,199</td>
+<td headers="New Jersey 06/04/2016 insured_unemployment" align=right>2.27</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="06/11/2016" align=right>06/11/2016</th>
+<td headers="New Jersey 06/11/2016 initial_claims" align=right>8,229</td>
+<td headers="New Jersey 06/11/2016 reflecting_week_ended" align=right>06/04/2016</td>
+<td headers="New Jersey 06/11/2016 continued_claims" align=right>87,633</td>
+<td headers="New Jersey 06/11/2016 covered_employment" align=right>3,828,199</td>
+<td headers="New Jersey 06/11/2016 insured_unemployment" align=right>2.29</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="06/18/2016" align=right>06/18/2016</th>
+<td headers="New Jersey 06/18/2016 initial_claims" align=right>11,439</td>
+<td headers="New Jersey 06/18/2016 reflecting_week_ended" align=right>06/11/2016</td>
+<td headers="New Jersey 06/18/2016 continued_claims" align=right>85,149</td>
+<td headers="New Jersey 06/18/2016 covered_employment" align=right>3,828,199</td>
+<td headers="New Jersey 06/18/2016 insured_unemployment" align=right>2.22</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="06/25/2016" align=right>06/25/2016</th>
+<td headers="New Jersey 06/25/2016 initial_claims" align=right>18,154</td>
+<td headers="New Jersey 06/25/2016 reflecting_week_ended" align=right>06/18/2016</td>
+<td headers="New Jersey 06/25/2016 continued_claims" align=right>86,692</td>
+<td headers="New Jersey 06/25/2016 covered_employment" align=right>3,828,199</td>
+<td headers="New Jersey 06/25/2016 insured_unemployment" align=right>2.26</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="07/02/2016" align=right>07/02/2016</th>
+<td headers="New Jersey 07/02/2016 initial_claims" align=right>16,295</td>
+<td headers="New Jersey 07/02/2016 reflecting_week_ended" align=right>06/25/2016</td>
+<td headers="New Jersey 07/02/2016 continued_claims" align=right>92,645</td>
+<td headers="New Jersey 07/02/2016 covered_employment" align=right>3,828,199</td>
+<td headers="New Jersey 07/02/2016 insured_unemployment" align=right>2.42</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="07/09/2016" align=right>07/09/2016</th>
+<td headers="New Jersey 07/09/2016 initial_claims" align=right>10,830</td>
+<td headers="New Jersey 07/09/2016 reflecting_week_ended" align=right>07/02/2016</td>
+<td headers="New Jersey 07/09/2016 continued_claims" align=right>100,689</td>
+<td headers="New Jersey 07/09/2016 covered_employment" align=right>3,844,279</td>
+<td headers="New Jersey 07/09/2016 insured_unemployment" align=right>2.62</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="07/16/2016" align=right>07/16/2016</th>
+<td headers="New Jersey 07/16/2016 initial_claims" align=right>9,493</td>
+<td headers="New Jersey 07/16/2016 reflecting_week_ended" align=right>07/09/2016</td>
+<td headers="New Jersey 07/16/2016 continued_claims" align=right>107,046</td>
+<td headers="New Jersey 07/16/2016 covered_employment" align=right>3,844,279</td>
+<td headers="New Jersey 07/16/2016 insured_unemployment" align=right>2.78</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="07/23/2016" align=right>07/23/2016</th>
+<td headers="New Jersey 07/23/2016 initial_claims" align=right>8,470</td>
+<td headers="New Jersey 07/23/2016 reflecting_week_ended" align=right>07/16/2016</td>
+<td headers="New Jersey 07/23/2016 continued_claims" align=right>104,984</td>
+<td headers="New Jersey 07/23/2016 covered_employment" align=right>3,844,279</td>
+<td headers="New Jersey 07/23/2016 insured_unemployment" align=right>2.73</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="07/30/2016" align=right>07/30/2016</th>
+<td headers="New Jersey 07/30/2016 initial_claims" align=right>8,439</td>
+<td headers="New Jersey 07/30/2016 reflecting_week_ended" align=right>07/23/2016</td>
+<td headers="New Jersey 07/30/2016 continued_claims" align=right>105,299</td>
+<td headers="New Jersey 07/30/2016 covered_employment" align=right>3,844,279</td>
+<td headers="New Jersey 07/30/2016 insured_unemployment" align=right>2.74</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="08/06/2016" align=right>08/06/2016</th>
+<td headers="New Jersey 08/06/2016 initial_claims" align=right>9,158</td>
+<td headers="New Jersey 08/06/2016 reflecting_week_ended" align=right>07/30/2016</td>
+<td headers="New Jersey 08/06/2016 continued_claims" align=right>105,115</td>
+<td headers="New Jersey 08/06/2016 covered_employment" align=right>3,844,279</td>
+<td headers="New Jersey 08/06/2016 insured_unemployment" align=right>2.73</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="08/13/2016" align=right>08/13/2016</th>
+<td headers="New Jersey 08/13/2016 initial_claims" align=right>8,713</td>
+<td headers="New Jersey 08/13/2016 reflecting_week_ended" align=right>08/06/2016</td>
+<td headers="New Jersey 08/13/2016 continued_claims" align=right>104,728</td>
+<td headers="New Jersey 08/13/2016 covered_employment" align=right>3,844,279</td>
+<td headers="New Jersey 08/13/2016 insured_unemployment" align=right>2.72</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="08/20/2016" align=right>08/20/2016</th>
+<td headers="New Jersey 08/20/2016 initial_claims" align=right>8,831</td>
+<td headers="New Jersey 08/20/2016 reflecting_week_ended" align=right>08/13/2016</td>
+<td headers="New Jersey 08/20/2016 continued_claims" align=right>105,796</td>
+<td headers="New Jersey 08/20/2016 covered_employment" align=right>3,844,279</td>
+<td headers="New Jersey 08/20/2016 insured_unemployment" align=right>2.75</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="08/27/2016" align=right>08/27/2016</th>
+<td headers="New Jersey 08/27/2016 initial_claims" align=right>8,209</td>
+<td headers="New Jersey 08/27/2016 reflecting_week_ended" align=right>08/20/2016</td>
+<td headers="New Jersey 08/27/2016 continued_claims" align=right>105,516</td>
+<td headers="New Jersey 08/27/2016 covered_employment" align=right>3,844,279</td>
+<td headers="New Jersey 08/27/2016 insured_unemployment" align=right>2.74</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="09/03/2016" align=right>09/03/2016</th>
+<td headers="New Jersey 09/03/2016 initial_claims" align=right>8,332</td>
+<td headers="New Jersey 09/03/2016 reflecting_week_ended" align=right>08/27/2016</td>
+<td headers="New Jersey 09/03/2016 continued_claims" align=right>105,892</td>
+<td headers="New Jersey 09/03/2016 covered_employment" align=right>3,844,279</td>
+<td headers="New Jersey 09/03/2016 insured_unemployment" align=right>2.75</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="09/10/2016" align=right>09/10/2016</th>
+<td headers="New Jersey 09/10/2016 initial_claims" align=right>7,188</td>
+<td headers="New Jersey 09/10/2016 reflecting_week_ended" align=right>09/03/2016</td>
+<td headers="New Jersey 09/10/2016 continued_claims" align=right>101,272</td>
+<td headers="New Jersey 09/10/2016 covered_employment" align=right>3,844,279</td>
+<td headers="New Jersey 09/10/2016 insured_unemployment" align=right>2.63</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="09/17/2016" align=right>09/17/2016</th>
+<td headers="New Jersey 09/17/2016 initial_claims" align=right>8,853</td>
+<td headers="New Jersey 09/17/2016 reflecting_week_ended" align=right>09/10/2016</td>
+<td headers="New Jersey 09/17/2016 continued_claims" align=right>90,212</td>
+<td headers="New Jersey 09/17/2016 covered_employment" align=right>3,844,279</td>
+<td headers="New Jersey 09/17/2016 insured_unemployment" align=right>2.35</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="09/24/2016" align=right>09/24/2016</th>
+<td headers="New Jersey 09/24/2016 initial_claims" align=right>7,943</td>
+<td headers="New Jersey 09/24/2016 reflecting_week_ended" align=right>09/17/2016</td>
+<td headers="New Jersey 09/24/2016 continued_claims" align=right>83,124</td>
+<td headers="New Jersey 09/24/2016 covered_employment" align=right>3,844,279</td>
+<td headers="New Jersey 09/24/2016 insured_unemployment" align=right>2.16</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="10/01/2016" align=right>10/01/2016</th>
+<td headers="New Jersey 10/01/2016 initial_claims" align=right>8,125</td>
+<td headers="New Jersey 10/01/2016 reflecting_week_ended" align=right>09/24/2016</td>
+<td headers="New Jersey 10/01/2016 continued_claims" align=right>82,165</td>
+<td headers="New Jersey 10/01/2016 covered_employment" align=right>3,844,279</td>
+<td headers="New Jersey 10/01/2016 insured_unemployment" align=right>2.14</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="10/08/2016" align=right>10/08/2016</th>
+<td headers="New Jersey 10/08/2016 initial_claims" align=right>9,588</td>
+<td headers="New Jersey 10/08/2016 reflecting_week_ended" align=right>10/01/2016</td>
+<td headers="New Jersey 10/08/2016 continued_claims" align=right>81,760</td>
+<td headers="New Jersey 10/08/2016 covered_employment" align=right>3,863,005</td>
+<td headers="New Jersey 10/08/2016 insured_unemployment" align=right>2.12</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="10/15/2016" align=right>10/15/2016</th>
+<td headers="New Jersey 10/15/2016 initial_claims" align=right>9,064</td>
+<td headers="New Jersey 10/15/2016 reflecting_week_ended" align=right>10/08/2016</td>
+<td headers="New Jersey 10/15/2016 continued_claims" align=right>81,476</td>
+<td headers="New Jersey 10/15/2016 covered_employment" align=right>3,861,568</td>
+<td headers="New Jersey 10/15/2016 insured_unemployment" align=right>2.11</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="10/22/2016" align=right>10/22/2016</th>
+<td headers="New Jersey 10/22/2016 initial_claims" align=right>9,324</td>
+<td headers="New Jersey 10/22/2016 reflecting_week_ended" align=right>10/15/2016</td>
+<td headers="New Jersey 10/22/2016 continued_claims" align=right>84,515</td>
+<td headers="New Jersey 10/22/2016 covered_employment" align=right>3,861,568</td>
+<td headers="New Jersey 10/22/2016 insured_unemployment" align=right>2.19</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="10/29/2016" align=right>10/29/2016</th>
+<td headers="New Jersey 10/29/2016 initial_claims" align=right>8,830</td>
+<td headers="New Jersey 10/29/2016 reflecting_week_ended" align=right>10/22/2016</td>
+<td headers="New Jersey 10/29/2016 continued_claims" align=right>84,749</td>
+<td headers="New Jersey 10/29/2016 covered_employment" align=right>3,861,568</td>
+<td headers="New Jersey 10/29/2016 insured_unemployment" align=right>2.19</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="11/05/2016" align=right>11/05/2016</th>
+<td headers="New Jersey 11/05/2016 initial_claims" align=right>10,262</td>
+<td headers="New Jersey 11/05/2016 reflecting_week_ended" align=right>10/29/2016</td>
+<td headers="New Jersey 11/05/2016 continued_claims" align=right>86,037</td>
+<td headers="New Jersey 11/05/2016 covered_employment" align=right>3,861,568</td>
+<td headers="New Jersey 11/05/2016 insured_unemployment" align=right>2.23</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="11/12/2016" align=right>11/12/2016</th>
+<td headers="New Jersey 11/12/2016 initial_claims" align=right>10,076</td>
+<td headers="New Jersey 11/12/2016 reflecting_week_ended" align=right>11/05/2016</td>
+<td headers="New Jersey 11/12/2016 continued_claims" align=right>85,576</td>
+<td headers="New Jersey 11/12/2016 covered_employment" align=right>3,861,568</td>
+<td headers="New Jersey 11/12/2016 insured_unemployment" align=right>2.22</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="11/19/2016" align=right>11/19/2016</th>
+<td headers="New Jersey 11/19/2016 initial_claims" align=right>11,023</td>
+<td headers="New Jersey 11/19/2016 reflecting_week_ended" align=right>11/12/2016</td>
+<td headers="New Jersey 11/19/2016 continued_claims" align=right>92,313</td>
+<td headers="New Jersey 11/19/2016 covered_employment" align=right>3,861,568</td>
+<td headers="New Jersey 11/19/2016 insured_unemployment" align=right>2.39</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="11/26/2016" align=right>11/26/2016</th>
+<td headers="New Jersey 11/26/2016 initial_claims" align=right>9,813</td>
+<td headers="New Jersey 11/26/2016 reflecting_week_ended" align=right>11/19/2016</td>
+<td headers="New Jersey 11/26/2016 continued_claims" align=right>85,431</td>
+<td headers="New Jersey 11/26/2016 covered_employment" align=right>3,861,568</td>
+<td headers="New Jersey 11/26/2016 insured_unemployment" align=right>2.21</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="12/03/2016" align=right>12/03/2016</th>
+<td headers="New Jersey 12/03/2016 initial_claims" align=right>12,284</td>
+<td headers="New Jersey 12/03/2016 reflecting_week_ended" align=right>11/26/2016</td>
+<td headers="New Jersey 12/03/2016 continued_claims" align=right>96,758</td>
+<td headers="New Jersey 12/03/2016 covered_employment" align=right>3,861,568</td>
+<td headers="New Jersey 12/03/2016 insured_unemployment" align=right>2.51</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="12/10/2016" align=right>12/10/2016</th>
+<td headers="New Jersey 12/10/2016 initial_claims" align=right>11,183</td>
+<td headers="New Jersey 12/10/2016 reflecting_week_ended" align=right>12/03/2016</td>
+<td headers="New Jersey 12/10/2016 continued_claims" align=right>93,722</td>
+<td headers="New Jersey 12/10/2016 covered_employment" align=right>3,861,568</td>
+<td headers="New Jersey 12/10/2016 insured_unemployment" align=right>2.43</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="12/17/2016" align=right>12/17/2016</th>
+<td headers="New Jersey 12/17/2016 initial_claims" align=right>12,563</td>
+<td headers="New Jersey 12/17/2016 reflecting_week_ended" align=right>12/10/2016</td>
+<td headers="New Jersey 12/17/2016 continued_claims" align=right>95,869</td>
+<td headers="New Jersey 12/17/2016 covered_employment" align=right>3,861,568</td>
+<td headers="New Jersey 12/17/2016 insured_unemployment" align=right>2.48</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="12/24/2016" align=right>12/24/2016</th>
+<td headers="New Jersey 12/24/2016 initial_claims" align=right>15,151</td>
+<td headers="New Jersey 12/24/2016 reflecting_week_ended" align=right>12/17/2016</td>
+<td headers="New Jersey 12/24/2016 continued_claims" align=right>97,621</td>
+<td headers="New Jersey 12/24/2016 covered_employment" align=right>3,861,568</td>
+<td headers="New Jersey 12/24/2016 insured_unemployment" align=right>2.53</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="12/31/2016" align=right>12/31/2016</th>
+<td headers="New Jersey 12/31/2016 initial_claims" align=right>23,373</td>
+<td headers="New Jersey 12/31/2016 reflecting_week_ended" align=right>12/24/2016</td>
+<td headers="New Jersey 12/31/2016 continued_claims" align=right>101,845</td>
+<td headers="New Jersey 12/31/2016 covered_employment" align=right>3,861,568</td>
+<td headers="New Jersey 12/31/2016 insured_unemployment" align=right>2.64</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="01/07/2017" align=right>01/07/2017</th>
+<td headers="New Jersey 01/07/2017 initial_claims" align=right>19,001</td>
+<td headers="New Jersey 01/07/2017 reflecting_week_ended" align=right>12/31/2016</td>
+<td headers="New Jersey 01/07/2017 continued_claims" align=right>121,220</td>
+<td headers="New Jersey 01/07/2017 covered_employment" align=right>3,861,568</td>
+<td headers="New Jersey 01/07/2017 insured_unemployment" align=right>3.14</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="01/14/2017" align=right>01/14/2017</th>
+<td headers="New Jersey 01/14/2017 initial_claims" align=right>14,428</td>
+<td headers="New Jersey 01/14/2017 reflecting_week_ended" align=right>01/07/2017</td>
+<td headers="New Jersey 01/14/2017 continued_claims" align=right>118,310</td>
+<td headers="New Jersey 01/14/2017 covered_employment" align=right>3,877,044</td>
+<td headers="New Jersey 01/14/2017 insured_unemployment" align=right>3.05</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="01/21/2017" align=right>01/21/2017</th>
+<td headers="New Jersey 01/21/2017 initial_claims" align=right>10,629</td>
+<td headers="New Jersey 01/21/2017 reflecting_week_ended" align=right>01/14/2017</td>
+<td headers="New Jersey 01/21/2017 continued_claims" align=right>117,467</td>
+<td headers="New Jersey 01/21/2017 covered_employment" align=right>3,877,044</td>
+<td headers="New Jersey 01/21/2017 insured_unemployment" align=right>3.03</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="01/28/2017" align=right>01/28/2017</th>
+<td headers="New Jersey 01/28/2017 initial_claims" align=right>10,326</td>
+<td headers="New Jersey 01/28/2017 reflecting_week_ended" align=right>01/21/2017</td>
+<td headers="New Jersey 01/28/2017 continued_claims" align=right>120,069</td>
+<td headers="New Jersey 01/28/2017 covered_employment" align=right>3,877,044</td>
+<td headers="New Jersey 01/28/2017 insured_unemployment" align=right>3.10</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="02/04/2017" align=right>02/04/2017</th>
+<td headers="New Jersey 02/04/2017 initial_claims" align=right>11,135</td>
+<td headers="New Jersey 02/04/2017 reflecting_week_ended" align=right>01/28/2017</td>
+<td headers="New Jersey 02/04/2017 continued_claims" align=right>120,625</td>
+<td headers="New Jersey 02/04/2017 covered_employment" align=right>3,877,044</td>
+<td headers="New Jersey 02/04/2017 insured_unemployment" align=right>3.11</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="02/11/2017" align=right>02/11/2017</th>
+<td headers="New Jersey 02/11/2017 initial_claims" align=right>8,834</td>
+<td headers="New Jersey 02/11/2017 reflecting_week_ended" align=right>02/04/2017</td>
+<td headers="New Jersey 02/11/2017 continued_claims" align=right>119,277</td>
+<td headers="New Jersey 02/11/2017 covered_employment" align=right>3,877,044</td>
+<td headers="New Jersey 02/11/2017 insured_unemployment" align=right>3.08</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="02/18/2017" align=right>02/18/2017</th>
+<td headers="New Jersey 02/18/2017 initial_claims" align=right>10,057</td>
+<td headers="New Jersey 02/18/2017 reflecting_week_ended" align=right>02/11/2017</td>
+<td headers="New Jersey 02/18/2017 continued_claims" align=right>123,051</td>
+<td headers="New Jersey 02/18/2017 covered_employment" align=right>3,877,044</td>
+<td headers="New Jersey 02/18/2017 insured_unemployment" align=right>3.17</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="02/25/2017" align=right>02/25/2017</th>
+<td headers="New Jersey 02/25/2017 initial_claims" align=right>8,833</td>
+<td headers="New Jersey 02/25/2017 reflecting_week_ended" align=right>02/18/2017</td>
+<td headers="New Jersey 02/25/2017 continued_claims" align=right>119,887</td>
+<td headers="New Jersey 02/25/2017 covered_employment" align=right>3,877,044</td>
+<td headers="New Jersey 02/25/2017 insured_unemployment" align=right>3.09</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="03/04/2017" align=right>03/04/2017</th>
+<td headers="New Jersey 03/04/2017 initial_claims" align=right>8,761</td>
+<td headers="New Jersey 03/04/2017 reflecting_week_ended" align=right>02/25/2017</td>
+<td headers="New Jersey 03/04/2017 continued_claims" align=right>121,426</td>
+<td headers="New Jersey 03/04/2017 covered_employment" align=right>3,877,044</td>
+<td headers="New Jersey 03/04/2017 insured_unemployment" align=right>3.13</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="03/11/2017" align=right>03/11/2017</th>
+<td headers="New Jersey 03/11/2017 initial_claims" align=right>8,277</td>
+<td headers="New Jersey 03/11/2017 reflecting_week_ended" align=right>03/04/2017</td>
+<td headers="New Jersey 03/11/2017 continued_claims" align=right>116,867</td>
+<td headers="New Jersey 03/11/2017 covered_employment" align=right>3,877,207</td>
+<td headers="New Jersey 03/11/2017 insured_unemployment" align=right>3.01</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="03/18/2017" align=right>03/18/2017</th>
+<td headers="New Jersey 03/18/2017 initial_claims" align=right>9,296</td>
+<td headers="New Jersey 03/18/2017 reflecting_week_ended" align=right>03/11/2017</td>
+<td headers="New Jersey 03/18/2017 continued_claims" align=right>113,619</td>
+<td headers="New Jersey 03/18/2017 covered_employment" align=right>3,877,207</td>
+<td headers="New Jersey 03/18/2017 insured_unemployment" align=right>2.93</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="03/25/2017" align=right>03/25/2017</th>
+<td headers="New Jersey 03/25/2017 initial_claims" align=right>8,679</td>
+<td headers="New Jersey 03/25/2017 reflecting_week_ended" align=right>03/18/2017</td>
+<td headers="New Jersey 03/25/2017 continued_claims" align=right>117,135</td>
+<td headers="New Jersey 03/25/2017 covered_employment" align=right>3,877,207</td>
+<td headers="New Jersey 03/25/2017 insured_unemployment" align=right>3.02</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="04/01/2017" align=right>04/01/2017</th>
+<td headers="New Jersey 04/01/2017 initial_claims" align=right>8,213</td>
+<td headers="New Jersey 04/01/2017 reflecting_week_ended" align=right>03/25/2017</td>
+<td headers="New Jersey 04/01/2017 continued_claims" align=right>112,392</td>
+<td headers="New Jersey 04/01/2017 covered_employment" align=right>3,877,207</td>
+<td headers="New Jersey 04/01/2017 insured_unemployment" align=right>2.90</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="04/08/2017" align=right>04/08/2017</th>
+<td headers="New Jersey 04/08/2017 initial_claims" align=right>9,095</td>
+<td headers="New Jersey 04/08/2017 reflecting_week_ended" align=right>04/01/2017</td>
+<td headers="New Jersey 04/08/2017 continued_claims" align=right>107,510</td>
+<td headers="New Jersey 04/08/2017 covered_employment" align=right>3,892,878</td>
+<td headers="New Jersey 04/08/2017 insured_unemployment" align=right>2.76</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="04/15/2017" align=right>04/15/2017</th>
+<td headers="New Jersey 04/15/2017 initial_claims" align=right>12,193</td>
+<td headers="New Jersey 04/15/2017 reflecting_week_ended" align=right>04/08/2017</td>
+<td headers="New Jersey 04/15/2017 continued_claims" align=right>99,185</td>
+<td headers="New Jersey 04/15/2017 covered_employment" align=right>3,892,878</td>
+<td headers="New Jersey 04/15/2017 insured_unemployment" align=right>2.55</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="04/22/2017" align=right>04/22/2017</th>
+<td headers="New Jersey 04/22/2017 initial_claims" align=right>12,392</td>
+<td headers="New Jersey 04/22/2017 reflecting_week_ended" align=right>04/15/2017</td>
+<td headers="New Jersey 04/22/2017 continued_claims" align=right>101,416</td>
+<td headers="New Jersey 04/22/2017 covered_employment" align=right>3,892,878</td>
+<td headers="New Jersey 04/22/2017 insured_unemployment" align=right>2.61</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="04/29/2017" align=right>04/29/2017</th>
+<td headers="New Jersey 04/29/2017 initial_claims" align=right>8,323</td>
+<td headers="New Jersey 04/29/2017 reflecting_week_ended" align=right>04/22/2017</td>
+<td headers="New Jersey 04/29/2017 continued_claims" align=right>97,390</td>
+<td headers="New Jersey 04/29/2017 covered_employment" align=right>3,892,878</td>
+<td headers="New Jersey 04/29/2017 insured_unemployment" align=right>2.50</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="05/06/2017" align=right>05/06/2017</th>
+<td headers="New Jersey 05/06/2017 initial_claims" align=right>8,404</td>
+<td headers="New Jersey 05/06/2017 reflecting_week_ended" align=right>04/29/2017</td>
+<td headers="New Jersey 05/06/2017 continued_claims" align=right>89,945</td>
+<td headers="New Jersey 05/06/2017 covered_employment" align=right>3,892,878</td>
+<td headers="New Jersey 05/06/2017 insured_unemployment" align=right>2.31</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="05/13/2017" align=right>05/13/2017</th>
+<td headers="New Jersey 05/13/2017 initial_claims" align=right>8,224</td>
+<td headers="New Jersey 05/13/2017 reflecting_week_ended" align=right>05/06/2017</td>
+<td headers="New Jersey 05/13/2017 continued_claims" align=right>86,451</td>
+<td headers="New Jersey 05/13/2017 covered_employment" align=right>3,892,878</td>
+<td headers="New Jersey 05/13/2017 insured_unemployment" align=right>2.22</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="05/20/2017" align=right>05/20/2017</th>
+<td headers="New Jersey 05/20/2017 initial_claims" align=right>7,824</td>
+<td headers="New Jersey 05/20/2017 reflecting_week_ended" align=right>05/13/2017</td>
+<td headers="New Jersey 05/20/2017 continued_claims" align=right>84,914</td>
+<td headers="New Jersey 05/20/2017 covered_employment" align=right>3,892,891</td>
+<td headers="New Jersey 05/20/2017 insured_unemployment" align=right>2.18</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="05/27/2017" align=right>05/27/2017</th>
+<td headers="New Jersey 05/27/2017 initial_claims" align=right>8,058</td>
+<td headers="New Jersey 05/27/2017 reflecting_week_ended" align=right>05/20/2017</td>
+<td headers="New Jersey 05/27/2017 continued_claims" align=right>84,889</td>
+<td headers="New Jersey 05/27/2017 covered_employment" align=right>3,892,891</td>
+<td headers="New Jersey 05/27/2017 insured_unemployment" align=right>2.18</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="06/03/2017" align=right>06/03/2017</th>
+<td headers="New Jersey 06/03/2017 initial_claims" align=right>7,488</td>
+<td headers="New Jersey 06/03/2017 reflecting_week_ended" align=right>05/27/2017</td>
+<td headers="New Jersey 06/03/2017 continued_claims" align=right>84,207</td>
+<td headers="New Jersey 06/03/2017 covered_employment" align=right>3,892,891</td>
+<td headers="New Jersey 06/03/2017 insured_unemployment" align=right>2.16</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="06/10/2017" align=right>06/10/2017</th>
+<td headers="New Jersey 06/10/2017 initial_claims" align=right>8,022</td>
+<td headers="New Jersey 06/10/2017 reflecting_week_ended" align=right>06/03/2017</td>
+<td headers="New Jersey 06/10/2017 continued_claims" align=right>85,052</td>
+<td headers="New Jersey 06/10/2017 covered_employment" align=right>3,892,891</td>
+<td headers="New Jersey 06/10/2017 insured_unemployment" align=right>2.18</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="06/17/2017" align=right>06/17/2017</th>
+<td headers="New Jersey 06/17/2017 initial_claims" align=right>9,454</td>
+<td headers="New Jersey 06/17/2017 reflecting_week_ended" align=right>06/10/2017</td>
+<td headers="New Jersey 06/17/2017 continued_claims" align=right>83,394</td>
+<td headers="New Jersey 06/17/2017 covered_employment" align=right>3,892,891</td>
+<td headers="New Jersey 06/17/2017 insured_unemployment" align=right>2.14</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="06/24/2017" align=right>06/24/2017</th>
+<td headers="New Jersey 06/24/2017 initial_claims" align=right>16,664</td>
+<td headers="New Jersey 06/24/2017 reflecting_week_ended" align=right>06/17/2017</td>
+<td headers="New Jersey 06/24/2017 continued_claims" align=right>83,446</td>
+<td headers="New Jersey 06/24/2017 covered_employment" align=right>3,892,891</td>
+<td headers="New Jersey 06/24/2017 insured_unemployment" align=right>2.14</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="07/01/2017" align=right>07/01/2017</th>
+<td headers="New Jersey 07/01/2017 initial_claims" align=right>16,458</td>
+<td headers="New Jersey 07/01/2017 reflecting_week_ended" align=right>06/24/2017</td>
+<td headers="New Jersey 07/01/2017 continued_claims" align=right>89,698</td>
+<td headers="New Jersey 07/01/2017 covered_employment" align=right>3,892,891</td>
+<td headers="New Jersey 07/01/2017 insured_unemployment" align=right>2.30</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="07/08/2017" align=right>07/08/2017</th>
+<td headers="New Jersey 07/08/2017 initial_claims" align=right>14,620</td>
+<td headers="New Jersey 07/08/2017 reflecting_week_ended" align=right>07/01/2017</td>
+<td headers="New Jersey 07/08/2017 continued_claims" align=right>96,666</td>
+<td headers="New Jersey 07/08/2017 covered_employment" align=right>3,906,654</td>
+<td headers="New Jersey 07/08/2017 insured_unemployment" align=right>2.47</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="07/15/2017" align=right>07/15/2017</th>
+<td headers="New Jersey 07/15/2017 initial_claims" align=right>10,697</td>
+<td headers="New Jersey 07/15/2017 reflecting_week_ended" align=right>07/08/2017</td>
+<td headers="New Jersey 07/15/2017 continued_claims" align=right>106,160</td>
+<td headers="New Jersey 07/15/2017 covered_employment" align=right>3,906,654</td>
+<td headers="New Jersey 07/15/2017 insured_unemployment" align=right>2.72</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="07/22/2017" align=right>07/22/2017</th>
+<td headers="New Jersey 07/22/2017 initial_claims" align=right>9,375</td>
+<td headers="New Jersey 07/22/2017 reflecting_week_ended" align=right>07/15/2017</td>
+<td headers="New Jersey 07/22/2017 continued_claims" align=right>106,024</td>
+<td headers="New Jersey 07/22/2017 covered_employment" align=right>3,906,654</td>
+<td headers="New Jersey 07/22/2017 insured_unemployment" align=right>2.71</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="07/29/2017" align=right>07/29/2017</th>
+<td headers="New Jersey 07/29/2017 initial_claims" align=right>8,369</td>
+<td headers="New Jersey 07/29/2017 reflecting_week_ended" align=right>07/22/2017</td>
+<td headers="New Jersey 07/29/2017 continued_claims" align=right>105,215</td>
+<td headers="New Jersey 07/29/2017 covered_employment" align=right>3,906,654</td>
+<td headers="New Jersey 07/29/2017 insured_unemployment" align=right>2.69</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="08/05/2017" align=right>08/05/2017</th>
+<td headers="New Jersey 08/05/2017 initial_claims" align=right>9,145</td>
+<td headers="New Jersey 08/05/2017 reflecting_week_ended" align=right>07/29/2017</td>
+<td headers="New Jersey 08/05/2017 continued_claims" align=right>104,799</td>
+<td headers="New Jersey 08/05/2017 covered_employment" align=right>3,906,654</td>
+<td headers="New Jersey 08/05/2017 insured_unemployment" align=right>2.68</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="08/12/2017" align=right>08/12/2017</th>
+<td headers="New Jersey 08/12/2017 initial_claims" align=right>8,369</td>
+<td headers="New Jersey 08/12/2017 reflecting_week_ended" align=right>08/05/2017</td>
+<td headers="New Jersey 08/12/2017 continued_claims" align=right>103,957</td>
+<td headers="New Jersey 08/12/2017 covered_employment" align=right>3,906,654</td>
+<td headers="New Jersey 08/12/2017 insured_unemployment" align=right>2.66</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="08/19/2017" align=right>08/19/2017</th>
+<td headers="New Jersey 08/19/2017 initial_claims" align=right>8,556</td>
+<td headers="New Jersey 08/19/2017 reflecting_week_ended" align=right>08/12/2017</td>
+<td headers="New Jersey 08/19/2017 continued_claims" align=right>103,673</td>
+<td headers="New Jersey 08/19/2017 covered_employment" align=right>3,906,654</td>
+<td headers="New Jersey 08/19/2017 insured_unemployment" align=right>2.65</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="08/26/2017" align=right>08/26/2017</th>
+<td headers="New Jersey 08/26/2017 initial_claims" align=right>7,859</td>
+<td headers="New Jersey 08/26/2017 reflecting_week_ended" align=right>08/19/2017</td>
+<td headers="New Jersey 08/26/2017 continued_claims" align=right>103,184</td>
+<td headers="New Jersey 08/26/2017 covered_employment" align=right>3,920,826</td>
+<td headers="New Jersey 08/26/2017 insured_unemployment" align=right>2.63</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="09/02/2017" align=right>09/02/2017</th>
+<td headers="New Jersey 09/02/2017 initial_claims" align=right>7,807</td>
+<td headers="New Jersey 09/02/2017 reflecting_week_ended" align=right>08/26/2017</td>
+<td headers="New Jersey 09/02/2017 continued_claims" align=right>103,886</td>
+<td headers="New Jersey 09/02/2017 covered_employment" align=right>3,920,826</td>
+<td headers="New Jersey 09/02/2017 insured_unemployment" align=right>2.65</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="09/09/2017" align=right>09/09/2017</th>
+<td headers="New Jersey 09/09/2017 initial_claims" align=right>7,455</td>
+<td headers="New Jersey 09/09/2017 reflecting_week_ended" align=right>09/02/2017</td>
+<td headers="New Jersey 09/09/2017 continued_claims" align=right>99,999</td>
+<td headers="New Jersey 09/09/2017 covered_employment" align=right>3,920,826</td>
+<td headers="New Jersey 09/09/2017 insured_unemployment" align=right>2.55</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="09/16/2017" align=right>09/16/2017</th>
+<td headers="New Jersey 09/16/2017 initial_claims" align=right>7,766</td>
+<td headers="New Jersey 09/16/2017 reflecting_week_ended" align=right>09/09/2017</td>
+<td headers="New Jersey 09/16/2017 continued_claims" align=right>91,320</td>
+<td headers="New Jersey 09/16/2017 covered_employment" align=right>3,920,826</td>
+<td headers="New Jersey 09/16/2017 insured_unemployment" align=right>2.33</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="09/23/2017" align=right>09/23/2017</th>
+<td headers="New Jersey 09/23/2017 initial_claims" align=right>7,723</td>
+<td headers="New Jersey 09/23/2017 reflecting_week_ended" align=right>09/16/2017</td>
+<td headers="New Jersey 09/23/2017 continued_claims" align=right>81,298</td>
+<td headers="New Jersey 09/23/2017 covered_employment" align=right>3,920,826</td>
+<td headers="New Jersey 09/23/2017 insured_unemployment" align=right>2.07</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="09/30/2017" align=right>09/30/2017</th>
+<td headers="New Jersey 09/30/2017 initial_claims" align=right>7,397</td>
+<td headers="New Jersey 09/30/2017 reflecting_week_ended" align=right>09/23/2017</td>
+<td headers="New Jersey 09/30/2017 continued_claims" align=right>80,391</td>
+<td headers="New Jersey 09/30/2017 covered_employment" align=right>3,920,826</td>
+<td headers="New Jersey 09/30/2017 insured_unemployment" align=right>2.05</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="10/07/2017" align=right>10/07/2017</th>
+<td headers="New Jersey 10/07/2017 initial_claims" align=right>8,483</td>
+<td headers="New Jersey 10/07/2017 reflecting_week_ended" align=right>09/30/2017</td>
+<td headers="New Jersey 10/07/2017 continued_claims" align=right>78,915</td>
+<td headers="New Jersey 10/07/2017 covered_employment" align=right>3,920,826</td>
+<td headers="New Jersey 10/07/2017 insured_unemployment" align=right>2.01</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="10/14/2017" align=right>10/14/2017</th>
+<td headers="New Jersey 10/14/2017 initial_claims" align=right>8,010</td>
+<td headers="New Jersey 10/14/2017 reflecting_week_ended" align=right>10/07/2017</td>
+<td headers="New Jersey 10/14/2017 continued_claims" align=right>77,189</td>
+<td headers="New Jersey 10/14/2017 covered_employment" align=right>3,920,147</td>
+<td headers="New Jersey 10/14/2017 insured_unemployment" align=right>1.97</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="10/21/2017" align=right>10/21/2017</th>
+<td headers="New Jersey 10/21/2017 initial_claims" align=right>8,666</td>
+<td headers="New Jersey 10/21/2017 reflecting_week_ended" align=right>10/14/2017</td>
+<td headers="New Jersey 10/21/2017 continued_claims" align=right>80,071</td>
+<td headers="New Jersey 10/21/2017 covered_employment" align=right>3,920,147</td>
+<td headers="New Jersey 10/21/2017 insured_unemployment" align=right>2.04</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="10/28/2017" align=right>10/28/2017</th>
+<td headers="New Jersey 10/28/2017 initial_claims" align=right>8,564</td>
+<td headers="New Jersey 10/28/2017 reflecting_week_ended" align=right>10/21/2017</td>
+<td headers="New Jersey 10/28/2017 continued_claims" align=right>80,949</td>
+<td headers="New Jersey 10/28/2017 covered_employment" align=right>3,920,147</td>
+<td headers="New Jersey 10/28/2017 insured_unemployment" align=right>2.06</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="11/04/2017" align=right>11/04/2017</th>
+<td headers="New Jersey 11/04/2017 initial_claims" align=right>9,415</td>
+<td headers="New Jersey 11/04/2017 reflecting_week_ended" align=right>10/28/2017</td>
+<td headers="New Jersey 11/04/2017 continued_claims" align=right>80,833</td>
+<td headers="New Jersey 11/04/2017 covered_employment" align=right>3,920,147</td>
+<td headers="New Jersey 11/04/2017 insured_unemployment" align=right>2.06</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="11/11/2017" align=right>11/11/2017</th>
+<td headers="New Jersey 11/11/2017 initial_claims" align=right>10,491</td>
+<td headers="New Jersey 11/11/2017 reflecting_week_ended" align=right>11/04/2017</td>
+<td headers="New Jersey 11/11/2017 continued_claims" align=right>78,814</td>
+<td headers="New Jersey 11/11/2017 covered_employment" align=right>3,920,147</td>
+<td headers="New Jersey 11/11/2017 insured_unemployment" align=right>2.01</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="11/18/2017" align=right>11/18/2017</th>
+<td headers="New Jersey 11/18/2017 initial_claims" align=right>10,813</td>
+<td headers="New Jersey 11/18/2017 reflecting_week_ended" align=right>11/11/2017</td>
+<td headers="New Jersey 11/18/2017 continued_claims" align=right>87,934</td>
+<td headers="New Jersey 11/18/2017 covered_employment" align=right>3,920,147</td>
+<td headers="New Jersey 11/18/2017 insured_unemployment" align=right>2.24</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="11/25/2017" align=right>11/25/2017</th>
+<td headers="New Jersey 11/25/2017 initial_claims" align=right>10,619</td>
+<td headers="New Jersey 11/25/2017 reflecting_week_ended" align=right>11/18/2017</td>
+<td headers="New Jersey 11/25/2017 continued_claims" align=right>82,561</td>
+<td headers="New Jersey 11/25/2017 covered_employment" align=right>3,920,147</td>
+<td headers="New Jersey 11/25/2017 insured_unemployment" align=right>2.11</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="12/02/2017" align=right>12/02/2017</th>
+<td headers="New Jersey 12/02/2017 initial_claims" align=right>11,089</td>
+<td headers="New Jersey 12/02/2017 reflecting_week_ended" align=right>11/25/2017</td>
+<td headers="New Jersey 12/02/2017 continued_claims" align=right>93,440</td>
+<td headers="New Jersey 12/02/2017 covered_employment" align=right>3,920,147</td>
+<td headers="New Jersey 12/02/2017 insured_unemployment" align=right>2.38</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="12/09/2017" align=right>12/09/2017</th>
+<td headers="New Jersey 12/09/2017 initial_claims" align=right>10,924</td>
+<td headers="New Jersey 12/09/2017 reflecting_week_ended" align=right>12/02/2017</td>
+<td headers="New Jersey 12/09/2017 continued_claims" align=right>89,537</td>
+<td headers="New Jersey 12/09/2017 covered_employment" align=right>3,920,147</td>
+<td headers="New Jersey 12/09/2017 insured_unemployment" align=right>2.28</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="12/16/2017" align=right>12/16/2017</th>
+<td headers="New Jersey 12/16/2017 initial_claims" align=right>11,818</td>
+<td headers="New Jersey 12/16/2017 reflecting_week_ended" align=right>12/09/2017</td>
+<td headers="New Jersey 12/16/2017 continued_claims" align=right>91,580</td>
+<td headers="New Jersey 12/16/2017 covered_employment" align=right>3,920,147</td>
+<td headers="New Jersey 12/16/2017 insured_unemployment" align=right>2.34</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="12/23/2017" align=right>12/23/2017</th>
+<td headers="New Jersey 12/23/2017 initial_claims" align=right>14,904</td>
+<td headers="New Jersey 12/23/2017 reflecting_week_ended" align=right>12/16/2017</td>
+<td headers="New Jersey 12/23/2017 continued_claims" align=right>95,173</td>
+<td headers="New Jersey 12/23/2017 covered_employment" align=right>3,920,147</td>
+<td headers="New Jersey 12/23/2017 insured_unemployment" align=right>2.43</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="12/30/2017" align=right>12/30/2017</th>
+<td headers="New Jersey 12/30/2017 initial_claims" align=right>24,411</td>
+<td headers="New Jersey 12/30/2017 reflecting_week_ended" align=right>12/23/2017</td>
+<td headers="New Jersey 12/30/2017 continued_claims" align=right>96,337</td>
+<td headers="New Jersey 12/30/2017 covered_employment" align=right>3,920,147</td>
+<td headers="New Jersey 12/30/2017 insured_unemployment" align=right>2.46</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="01/06/2018" align=right>01/06/2018</th>
+<td headers="New Jersey 01/06/2018 initial_claims" align=right>16,190</td>
+<td headers="New Jersey 01/06/2018 reflecting_week_ended" align=right>12/30/2017</td>
+<td headers="New Jersey 01/06/2018 continued_claims" align=right>113,263</td>
+<td headers="New Jersey 01/06/2018 covered_employment" align=right>3,920,147</td>
+<td headers="New Jersey 01/06/2018 insured_unemployment" align=right>2.89</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="01/13/2018" align=right>01/13/2018</th>
+<td headers="New Jersey 01/13/2018 initial_claims" align=right>15,040</td>
+<td headers="New Jersey 01/13/2018 reflecting_week_ended" align=right>01/06/2018</td>
+<td headers="New Jersey 01/13/2018 continued_claims" align=right>121,653</td>
+<td headers="New Jersey 01/13/2018 covered_employment" align=right>3,934,397</td>
+<td headers="New Jersey 01/13/2018 insured_unemployment" align=right>3.09</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="01/20/2018" align=right>01/20/2018</th>
+<td headers="New Jersey 01/20/2018 initial_claims" align=right>10,806</td>
+<td headers="New Jersey 01/20/2018 reflecting_week_ended" align=right>01/13/2018</td>
+<td headers="New Jersey 01/20/2018 continued_claims" align=right>116,061</td>
+<td headers="New Jersey 01/20/2018 covered_employment" align=right>3,934,397</td>
+<td headers="New Jersey 01/20/2018 insured_unemployment" align=right>2.95</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="01/27/2018" align=right>01/27/2018</th>
+<td headers="New Jersey 01/27/2018 initial_claims" align=right>8,981</td>
+<td headers="New Jersey 01/27/2018 reflecting_week_ended" align=right>01/20/2018</td>
+<td headers="New Jersey 01/27/2018 continued_claims" align=right>118,337</td>
+<td headers="New Jersey 01/27/2018 covered_employment" align=right>3,934,397</td>
+<td headers="New Jersey 01/27/2018 insured_unemployment" align=right>3.01</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="02/03/2018" align=right>02/03/2018</th>
+<td headers="New Jersey 02/03/2018 initial_claims" align=right>8,863</td>
+<td headers="New Jersey 02/03/2018 reflecting_week_ended" align=right>01/27/2018</td>
+<td headers="New Jersey 02/03/2018 continued_claims" align=right>117,895</td>
+<td headers="New Jersey 02/03/2018 covered_employment" align=right>3,934,397</td>
+<td headers="New Jersey 02/03/2018 insured_unemployment" align=right>3.00</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="02/10/2018" align=right>02/10/2018</th>
+<td headers="New Jersey 02/10/2018 initial_claims" align=right>9,049</td>
+<td headers="New Jersey 02/10/2018 reflecting_week_ended" align=right>02/03/2018</td>
+<td headers="New Jersey 02/10/2018 continued_claims" align=right>118,209</td>
+<td headers="New Jersey 02/10/2018 covered_employment" align=right>3,934,397</td>
+<td headers="New Jersey 02/10/2018 insured_unemployment" align=right>3.00</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="02/17/2018" align=right>02/17/2018</th>
+<td headers="New Jersey 02/17/2018 initial_claims" align=right>9,382</td>
+<td headers="New Jersey 02/17/2018 reflecting_week_ended" align=right>02/10/2018</td>
+<td headers="New Jersey 02/17/2018 continued_claims" align=right>116,575</td>
+<td headers="New Jersey 02/17/2018 covered_employment" align=right>3,934,397</td>
+<td headers="New Jersey 02/17/2018 insured_unemployment" align=right>2.96</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="02/24/2018" align=right>02/24/2018</th>
+<td headers="New Jersey 02/24/2018 initial_claims" align=right>7,908</td>
+<td headers="New Jersey 02/24/2018 reflecting_week_ended" align=right>02/17/2018</td>
+<td headers="New Jersey 02/24/2018 continued_claims" align=right>113,829</td>
+<td headers="New Jersey 02/24/2018 covered_employment" align=right>3,934,397</td>
+<td headers="New Jersey 02/24/2018 insured_unemployment" align=right>2.89</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="03/03/2018" align=right>03/03/2018</th>
+<td headers="New Jersey 03/03/2018 initial_claims" align=right>8,712</td>
+<td headers="New Jersey 03/03/2018 reflecting_week_ended" align=right>02/24/2018</td>
+<td headers="New Jersey 03/03/2018 continued_claims" align=right>116,906</td>
+<td headers="New Jersey 03/03/2018 covered_employment" align=right>3,934,397</td>
+<td headers="New Jersey 03/03/2018 insured_unemployment" align=right>2.97</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="03/10/2018" align=right>03/10/2018</th>
+<td headers="New Jersey 03/10/2018 initial_claims" align=right>8,270</td>
+<td headers="New Jersey 03/10/2018 reflecting_week_ended" align=right>03/03/2018</td>
+<td headers="New Jersey 03/10/2018 continued_claims" align=right>110,371</td>
+<td headers="New Jersey 03/10/2018 covered_employment" align=right>3,934,232</td>
+<td headers="New Jersey 03/10/2018 insured_unemployment" align=right>2.81</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="03/17/2018" align=right>03/17/2018</th>
+<td headers="New Jersey 03/17/2018 initial_claims" align=right>8,917</td>
+<td headers="New Jersey 03/17/2018 reflecting_week_ended" align=right>03/10/2018</td>
+<td headers="New Jersey 03/17/2018 continued_claims" align=right>112,190</td>
+<td headers="New Jersey 03/17/2018 covered_employment" align=right>3,934,232</td>
+<td headers="New Jersey 03/17/2018 insured_unemployment" align=right>2.85</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="03/24/2018" align=right>03/24/2018</th>
+<td headers="New Jersey 03/24/2018 initial_claims" align=right>7,245</td>
+<td headers="New Jersey 03/24/2018 reflecting_week_ended" align=right>03/17/2018</td>
+<td headers="New Jersey 03/24/2018 continued_claims" align=right>107,628</td>
+<td headers="New Jersey 03/24/2018 covered_employment" align=right>3,934,232</td>
+<td headers="New Jersey 03/24/2018 insured_unemployment" align=right>2.74</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="03/31/2018" align=right>03/31/2018</th>
+<td headers="New Jersey 03/31/2018 initial_claims" align=right>9,326</td>
+<td headers="New Jersey 03/31/2018 reflecting_week_ended" align=right>03/24/2018</td>
+<td headers="New Jersey 03/31/2018 continued_claims" align=right>106,898</td>
+<td headers="New Jersey 03/31/2018 covered_employment" align=right>3,934,232</td>
+<td headers="New Jersey 03/31/2018 insured_unemployment" align=right>2.72</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="04/07/2018" align=right>04/07/2018</th>
+<td headers="New Jersey 04/07/2018 initial_claims" align=right>14,893</td>
+<td headers="New Jersey 04/07/2018 reflecting_week_ended" align=right>03/31/2018</td>
+<td headers="New Jersey 04/07/2018 continued_claims" align=right>102,631</td>
+<td headers="New Jersey 04/07/2018 covered_employment" align=right>3,934,232</td>
+<td headers="New Jersey 04/07/2018 insured_unemployment" align=right>2.61</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="04/14/2018" align=right>04/14/2018</th>
+<td headers="New Jersey 04/14/2018 initial_claims" align=right>8,991</td>
+<td headers="New Jersey 04/14/2018 reflecting_week_ended" align=right>04/07/2018</td>
+<td headers="New Jersey 04/14/2018 continued_claims" align=right>105,335</td>
+<td headers="New Jersey 04/14/2018 covered_employment" align=right>3,945,632</td>
+<td headers="New Jersey 04/14/2018 insured_unemployment" align=right>2.67</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="04/21/2018" align=right>04/21/2018</th>
+<td headers="New Jersey 04/21/2018 initial_claims" align=right>7,205</td>
+<td headers="New Jersey 04/21/2018 reflecting_week_ended" align=right>04/14/2018</td>
+<td headers="New Jersey 04/21/2018 continued_claims" align=right>93,464</td>
+<td headers="New Jersey 04/21/2018 covered_employment" align=right>3,945,632</td>
+<td headers="New Jersey 04/21/2018 insured_unemployment" align=right>2.37</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="04/28/2018" align=right>04/28/2018</th>
+<td headers="New Jersey 04/28/2018 initial_claims" align=right>7,098</td>
+<td headers="New Jersey 04/28/2018 reflecting_week_ended" align=right>04/21/2018</td>
+<td headers="New Jersey 04/28/2018 continued_claims" align=right>87,731</td>
+<td headers="New Jersey 04/28/2018 covered_employment" align=right>3,945,632</td>
+<td headers="New Jersey 04/28/2018 insured_unemployment" align=right>2.22</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="05/05/2018" align=right>05/05/2018</th>
+<td headers="New Jersey 05/05/2018 initial_claims" align=right>7,298</td>
+<td headers="New Jersey 05/05/2018 reflecting_week_ended" align=right>04/28/2018</td>
+<td headers="New Jersey 05/05/2018 continued_claims" align=right>84,191</td>
+<td headers="New Jersey 05/05/2018 covered_employment" align=right>3,945,089</td>
+<td headers="New Jersey 05/05/2018 insured_unemployment" align=right>2.13</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="05/12/2018" align=right>05/12/2018</th>
+<td headers="New Jersey 05/12/2018 initial_claims" align=right>7,292</td>
+<td headers="New Jersey 05/12/2018 reflecting_week_ended" align=right>05/05/2018</td>
+<td headers="New Jersey 05/12/2018 continued_claims" align=right>81,476</td>
+<td headers="New Jersey 05/12/2018 covered_employment" align=right>3,945,089</td>
+<td headers="New Jersey 05/12/2018 insured_unemployment" align=right>2.07</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="05/19/2018" align=right>05/19/2018</th>
+<td headers="New Jersey 05/19/2018 initial_claims" align=right>8,418</td>
+<td headers="New Jersey 05/19/2018 reflecting_week_ended" align=right>05/12/2018</td>
+<td headers="New Jersey 05/19/2018 continued_claims" align=right>79,547</td>
+<td headers="New Jersey 05/19/2018 covered_employment" align=right>3,945,089</td>
+<td headers="New Jersey 05/19/2018 insured_unemployment" align=right>2.02</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="05/26/2018" align=right>05/26/2018</th>
+<td headers="New Jersey 05/26/2018 initial_claims" align=right>7,785</td>
+<td headers="New Jersey 05/26/2018 reflecting_week_ended" align=right>05/19/2018</td>
+<td headers="New Jersey 05/26/2018 continued_claims" align=right>79,863</td>
+<td headers="New Jersey 05/26/2018 covered_employment" align=right>3,945,089</td>
+<td headers="New Jersey 05/26/2018 insured_unemployment" align=right>2.02</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="06/02/2018" align=right>06/02/2018</th>
+<td headers="New Jersey 06/02/2018 initial_claims" align=right>6,107</td>
+<td headers="New Jersey 06/02/2018 reflecting_week_ended" align=right>05/26/2018</td>
+<td headers="New Jersey 06/02/2018 continued_claims" align=right>79,626</td>
+<td headers="New Jersey 06/02/2018 covered_employment" align=right>3,945,089</td>
+<td headers="New Jersey 06/02/2018 insured_unemployment" align=right>2.02</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="06/09/2018" align=right>06/09/2018</th>
+<td headers="New Jersey 06/09/2018 initial_claims" align=right>7,705</td>
+<td headers="New Jersey 06/09/2018 reflecting_week_ended" align=right>06/02/2018</td>
+<td headers="New Jersey 06/09/2018 continued_claims" align=right>79,862</td>
+<td headers="New Jersey 06/09/2018 covered_employment" align=right>3,957,083</td>
+<td headers="New Jersey 06/09/2018 insured_unemployment" align=right>2.02</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="06/16/2018" align=right>06/16/2018</th>
+<td headers="New Jersey 06/16/2018 initial_claims" align=right>7,648</td>
+<td headers="New Jersey 06/16/2018 reflecting_week_ended" align=right>06/09/2018</td>
+<td headers="New Jersey 06/16/2018 continued_claims" align=right>78,509</td>
+<td headers="New Jersey 06/16/2018 covered_employment" align=right>3,957,083</td>
+<td headers="New Jersey 06/16/2018 insured_unemployment" align=right>1.98</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="06/23/2018" align=right>06/23/2018</th>
+<td headers="New Jersey 06/23/2018 initial_claims" align=right>13,084</td>
+<td headers="New Jersey 06/23/2018 reflecting_week_ended" align=right>06/16/2018</td>
+<td headers="New Jersey 06/23/2018 continued_claims" align=right>78,034</td>
+<td headers="New Jersey 06/23/2018 covered_employment" align=right>3,957,083</td>
+<td headers="New Jersey 06/23/2018 insured_unemployment" align=right>1.97</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="06/30/2018" align=right>06/30/2018</th>
+<td headers="New Jersey 06/30/2018 initial_claims" align=right>17,448</td>
+<td headers="New Jersey 06/30/2018 reflecting_week_ended" align=right>06/23/2018</td>
+<td headers="New Jersey 06/30/2018 continued_claims" align=right>80,685</td>
+<td headers="New Jersey 06/30/2018 covered_employment" align=right>3,957,083</td>
+<td headers="New Jersey 06/30/2018 insured_unemployment" align=right>2.04</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="07/07/2018" align=right>07/07/2018</th>
+<td headers="New Jersey 07/07/2018 initial_claims" align=right>13,924</td>
+<td headers="New Jersey 07/07/2018 reflecting_week_ended" align=right>06/30/2018</td>
+<td headers="New Jersey 07/07/2018 continued_claims" align=right>87,635</td>
+<td headers="New Jersey 07/07/2018 covered_employment" align=right>3,957,083</td>
+<td headers="New Jersey 07/07/2018 insured_unemployment" align=right>2.21</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="07/14/2018" align=right>07/14/2018</th>
+<td headers="New Jersey 07/14/2018 initial_claims" align=right>9,172</td>
+<td headers="New Jersey 07/14/2018 reflecting_week_ended" align=right>07/07/2018</td>
+<td headers="New Jersey 07/14/2018 continued_claims" align=right>99,656</td>
+<td headers="New Jersey 07/14/2018 covered_employment" align=right>3,957,190</td>
+<td headers="New Jersey 07/14/2018 insured_unemployment" align=right>2.52</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="07/21/2018" align=right>07/21/2018</th>
+<td headers="New Jersey 07/21/2018 initial_claims" align=right>8,254</td>
+<td headers="New Jersey 07/21/2018 reflecting_week_ended" align=right>07/14/2018</td>
+<td headers="New Jersey 07/21/2018 continued_claims" align=right>99,334</td>
+<td headers="New Jersey 07/21/2018 covered_employment" align=right>3,957,190</td>
+<td headers="New Jersey 07/21/2018 insured_unemployment" align=right>2.51</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="07/28/2018" align=right>07/28/2018</th>
+<td headers="New Jersey 07/28/2018 initial_claims" align=right>7,619</td>
+<td headers="New Jersey 07/28/2018 reflecting_week_ended" align=right>07/21/2018</td>
+<td headers="New Jersey 07/28/2018 continued_claims" align=right>100,055</td>
+<td headers="New Jersey 07/28/2018 covered_employment" align=right>3,957,190</td>
+<td headers="New Jersey 07/28/2018 insured_unemployment" align=right>2.53</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="08/04/2018" align=right>08/04/2018</th>
+<td headers="New Jersey 08/04/2018 initial_claims" align=right>8,198</td>
+<td headers="New Jersey 08/04/2018 reflecting_week_ended" align=right>07/28/2018</td>
+<td headers="New Jersey 08/04/2018 continued_claims" align=right>98,169</td>
+<td headers="New Jersey 08/04/2018 covered_employment" align=right>3,957,190</td>
+<td headers="New Jersey 08/04/2018 insured_unemployment" align=right>2.48</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="08/11/2018" align=right>08/11/2018</th>
+<td headers="New Jersey 08/11/2018 initial_claims" align=right>7,811</td>
+<td headers="New Jersey 08/11/2018 reflecting_week_ended" align=right>08/04/2018</td>
+<td headers="New Jersey 08/11/2018 continued_claims" align=right>97,770</td>
+<td headers="New Jersey 08/11/2018 covered_employment" align=right>3,957,190</td>
+<td headers="New Jersey 08/11/2018 insured_unemployment" align=right>2.47</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="08/18/2018" align=right>08/18/2018</th>
+<td headers="New Jersey 08/18/2018 initial_claims" align=right>8,276</td>
+<td headers="New Jersey 08/18/2018 reflecting_week_ended" align=right>08/11/2018</td>
+<td headers="New Jersey 08/18/2018 continued_claims" align=right>97,886</td>
+<td headers="New Jersey 08/18/2018 covered_employment" align=right>3,968,853</td>
+<td headers="New Jersey 08/18/2018 insured_unemployment" align=right>2.47</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="08/25/2018" align=right>08/25/2018</th>
+<td headers="New Jersey 08/25/2018 initial_claims" align=right>7,371</td>
+<td headers="New Jersey 08/25/2018 reflecting_week_ended" align=right>08/18/2018</td>
+<td headers="New Jersey 08/25/2018 continued_claims" align=right>97,836</td>
+<td headers="New Jersey 08/25/2018 covered_employment" align=right>3,968,853</td>
+<td headers="New Jersey 08/25/2018 insured_unemployment" align=right>2.47</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="09/01/2018" align=right>09/01/2018</th>
+<td headers="New Jersey 09/01/2018 initial_claims" align=right>7,106</td>
+<td headers="New Jersey 09/01/2018 reflecting_week_ended" align=right>08/25/2018</td>
+<td headers="New Jersey 09/01/2018 continued_claims" align=right>97,347</td>
+<td headers="New Jersey 09/01/2018 covered_employment" align=right>3,968,853</td>
+<td headers="New Jersey 09/01/2018 insured_unemployment" align=right>2.45</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="09/08/2018" align=right>09/08/2018</th>
+<td headers="New Jersey 09/08/2018 initial_claims" align=right>6,512</td>
+<td headers="New Jersey 09/08/2018 reflecting_week_ended" align=right>09/01/2018</td>
+<td headers="New Jersey 09/08/2018 continued_claims" align=right>94,594</td>
+<td headers="New Jersey 09/08/2018 covered_employment" align=right>3,968,853</td>
+<td headers="New Jersey 09/08/2018 insured_unemployment" align=right>2.38</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="09/15/2018" align=right>09/15/2018</th>
+<td headers="New Jersey 09/15/2018 initial_claims" align=right>8,000</td>
+<td headers="New Jersey 09/15/2018 reflecting_week_ended" align=right>09/08/2018</td>
+<td headers="New Jersey 09/15/2018 continued_claims" align=right>85,659</td>
+<td headers="New Jersey 09/15/2018 covered_employment" align=right>3,968,853</td>
+<td headers="New Jersey 09/15/2018 insured_unemployment" align=right>2.16</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="09/22/2018" align=right>09/22/2018</th>
+<td headers="New Jersey 09/22/2018 initial_claims" align=right>7,122</td>
+<td headers="New Jersey 09/22/2018 reflecting_week_ended" align=right>09/15/2018</td>
+<td headers="New Jersey 09/22/2018 continued_claims" align=right>76,422</td>
+<td headers="New Jersey 09/22/2018 covered_employment" align=right>3,968,853</td>
+<td headers="New Jersey 09/22/2018 insured_unemployment" align=right>1.93</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="09/29/2018" align=right>09/29/2018</th>
+<td headers="New Jersey 09/29/2018 initial_claims" align=right>6,907</td>
+<td headers="New Jersey 09/29/2018 reflecting_week_ended" align=right>09/22/2018</td>
+<td headers="New Jersey 09/29/2018 continued_claims" align=right>74,133</td>
+<td headers="New Jersey 09/29/2018 covered_employment" align=right>3,968,853</td>
+<td headers="New Jersey 09/29/2018 insured_unemployment" align=right>1.87</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="10/06/2018" align=right>10/06/2018</th>
+<td headers="New Jersey 10/06/2018 initial_claims" align=right>7,904</td>
+<td headers="New Jersey 10/06/2018 reflecting_week_ended" align=right>09/29/2018</td>
+<td headers="New Jersey 10/06/2018 continued_claims" align=right>74,067</td>
+<td headers="New Jersey 10/06/2018 covered_employment" align=right>3,968,853</td>
+<td headers="New Jersey 10/06/2018 insured_unemployment" align=right>1.87</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="10/13/2018" align=right>10/13/2018</th>
+<td headers="New Jersey 10/13/2018 initial_claims" align=right>7,245</td>
+<td headers="New Jersey 10/13/2018 reflecting_week_ended" align=right>10/06/2018</td>
+<td headers="New Jersey 10/13/2018 continued_claims" align=right>71,966</td>
+<td headers="New Jersey 10/13/2018 covered_employment" align=right>3,968,853</td>
+<td headers="New Jersey 10/13/2018 insured_unemployment" align=right>1.81</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="10/20/2018" align=right>10/20/2018</th>
+<td headers="New Jersey 10/20/2018 initial_claims" align=right>8,081</td>
+<td headers="New Jersey 10/20/2018 reflecting_week_ended" align=right>10/13/2018</td>
+<td headers="New Jersey 10/20/2018 continued_claims" align=right>73,634</td>
+<td headers="New Jersey 10/20/2018 covered_employment" align=right>3,967,985</td>
+<td headers="New Jersey 10/20/2018 insured_unemployment" align=right>1.86</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="10/27/2018" align=right>10/27/2018</th>
+<td headers="New Jersey 10/27/2018 initial_claims" align=right>7,763</td>
+<td headers="New Jersey 10/27/2018 reflecting_week_ended" align=right>10/20/2018</td>
+<td headers="New Jersey 10/27/2018 continued_claims" align=right>74,017</td>
+<td headers="New Jersey 10/27/2018 covered_employment" align=right>3,967,985</td>
+<td headers="New Jersey 10/27/2018 insured_unemployment" align=right>1.87</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="11/03/2018" align=right>11/03/2018</th>
+<td headers="New Jersey 11/03/2018 initial_claims" align=right>8,504</td>
+<td headers="New Jersey 11/03/2018 reflecting_week_ended" align=right>10/27/2018</td>
+<td headers="New Jersey 11/03/2018 continued_claims" align=right>74,718</td>
+<td headers="New Jersey 11/03/2018 covered_employment" align=right>3,967,985</td>
+<td headers="New Jersey 11/03/2018 insured_unemployment" align=right>1.88</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="11/10/2018" align=right>11/10/2018</th>
+<td headers="New Jersey 11/10/2018 initial_claims" align=right>11,420</td>
+<td headers="New Jersey 11/10/2018 reflecting_week_ended" align=right>11/03/2018</td>
+<td headers="New Jersey 11/10/2018 continued_claims" align=right>74,345</td>
+<td headers="New Jersey 11/10/2018 covered_employment" align=right>3,967,985</td>
+<td headers="New Jersey 11/10/2018 insured_unemployment" align=right>1.87</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="11/17/2018" align=right>11/17/2018</th>
+<td headers="New Jersey 11/17/2018 initial_claims" align=right>9,073</td>
+<td headers="New Jersey 11/17/2018 reflecting_week_ended" align=right>11/10/2018</td>
+<td headers="New Jersey 11/17/2018 continued_claims" align=right>80,412</td>
+<td headers="New Jersey 11/17/2018 covered_employment" align=right>3,967,985</td>
+<td headers="New Jersey 11/17/2018 insured_unemployment" align=right>2.03</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="11/24/2018" align=right>11/24/2018</th>
+<td headers="New Jersey 11/24/2018 initial_claims" align=right>9,560</td>
+<td headers="New Jersey 11/24/2018 reflecting_week_ended" align=right>11/17/2018</td>
+<td headers="New Jersey 11/24/2018 continued_claims" align=right>76,974</td>
+<td headers="New Jersey 11/24/2018 covered_employment" align=right>3,967,985</td>
+<td headers="New Jersey 11/24/2018 insured_unemployment" align=right>1.94</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="12/01/2018" align=right>12/01/2018</th>
+<td headers="New Jersey 12/01/2018 initial_claims" align=right>10,211</td>
+<td headers="New Jersey 12/01/2018 reflecting_week_ended" align=right>11/24/2018</td>
+<td headers="New Jersey 12/01/2018 continued_claims" align=right>85,596</td>
+<td headers="New Jersey 12/01/2018 covered_employment" align=right>3,967,985</td>
+<td headers="New Jersey 12/01/2018 insured_unemployment" align=right>2.16</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="12/08/2018" align=right>12/08/2018</th>
+<td headers="New Jersey 12/08/2018 initial_claims" align=right>10,220</td>
+<td headers="New Jersey 12/08/2018 reflecting_week_ended" align=right>12/01/2018</td>
+<td headers="New Jersey 12/08/2018 continued_claims" align=right>81,714</td>
+<td headers="New Jersey 12/08/2018 covered_employment" align=right>3,967,985</td>
+<td headers="New Jersey 12/08/2018 insured_unemployment" align=right>2.06</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="12/15/2018" align=right>12/15/2018</th>
+<td headers="New Jersey 12/15/2018 initial_claims" align=right>9,639</td>
+<td headers="New Jersey 12/15/2018 reflecting_week_ended" align=right>12/08/2018</td>
+<td headers="New Jersey 12/15/2018 continued_claims" align=right>82,272</td>
+<td headers="New Jersey 12/15/2018 covered_employment" align=right>3,967,985</td>
+<td headers="New Jersey 12/15/2018 insured_unemployment" align=right>2.07</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="12/22/2018" align=right>12/22/2018</th>
+<td headers="New Jersey 12/22/2018 initial_claims" align=right>15,887</td>
+<td headers="New Jersey 12/22/2018 reflecting_week_ended" align=right>12/15/2018</td>
+<td headers="New Jersey 12/22/2018 continued_claims" align=right>86,548</td>
+<td headers="New Jersey 12/22/2018 covered_employment" align=right>3,967,985</td>
+<td headers="New Jersey 12/22/2018 insured_unemployment" align=right>2.18</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="12/29/2018" align=right>12/29/2018</th>
+<td headers="New Jersey 12/29/2018 initial_claims" align=right>23,732</td>
+<td headers="New Jersey 12/29/2018 reflecting_week_ended" align=right>12/22/2018</td>
+<td headers="New Jersey 12/29/2018 continued_claims" align=right>87,417</td>
+<td headers="New Jersey 12/29/2018 covered_employment" align=right>3,967,985</td>
+<td headers="New Jersey 12/29/2018 insured_unemployment" align=right>2.20</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="01/05/2019" align=right>01/05/2019</th>
+<td headers="New Jersey 01/05/2019 initial_claims" align=right>15,716</td>
+<td headers="New Jersey 01/05/2019 reflecting_week_ended" align=right>12/29/2018</td>
+<td headers="New Jersey 01/05/2019 continued_claims" align=right>108,647</td>
+<td headers="New Jersey 01/05/2019 covered_employment" align=right>3,967,985</td>
+<td headers="New Jersey 01/05/2019 insured_unemployment" align=right>2.74</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="01/12/2019" align=right>01/12/2019</th>
+<td headers="New Jersey 01/12/2019 initial_claims" align=right>14,167</td>
+<td headers="New Jersey 01/12/2019 reflecting_week_ended" align=right>01/05/2019</td>
+<td headers="New Jersey 01/12/2019 continued_claims" align=right>110,669</td>
+<td headers="New Jersey 01/12/2019 covered_employment" align=right>3,977,393</td>
+<td headers="New Jersey 01/12/2019 insured_unemployment" align=right>2.78</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="01/19/2019" align=right>01/19/2019</th>
+<td headers="New Jersey 01/19/2019 initial_claims" align=right>10,190</td>
+<td headers="New Jersey 01/19/2019 reflecting_week_ended" align=right>01/12/2019</td>
+<td headers="New Jersey 01/19/2019 continued_claims" align=right>106,096</td>
+<td headers="New Jersey 01/19/2019 covered_employment" align=right>3,977,393</td>
+<td headers="New Jersey 01/19/2019 insured_unemployment" align=right>2.67</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="01/26/2019" align=right>01/26/2019</th>
+<td headers="New Jersey 01/26/2019 initial_claims" align=right>11,130</td>
+<td headers="New Jersey 01/26/2019 reflecting_week_ended" align=right>01/19/2019</td>
+<td headers="New Jersey 01/26/2019 continued_claims" align=right>108,219</td>
+<td headers="New Jersey 01/26/2019 covered_employment" align=right>3,977,393</td>
+<td headers="New Jersey 01/26/2019 insured_unemployment" align=right>2.72</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="02/02/2019" align=right>02/02/2019</th>
+<td headers="New Jersey 02/02/2019 initial_claims" align=right>9,903</td>
+<td headers="New Jersey 02/02/2019 reflecting_week_ended" align=right>01/26/2019</td>
+<td headers="New Jersey 02/02/2019 continued_claims" align=right>111,749</td>
+<td headers="New Jersey 02/02/2019 covered_employment" align=right>3,977,393</td>
+<td headers="New Jersey 02/02/2019 insured_unemployment" align=right>2.81</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="02/09/2019" align=right>02/09/2019</th>
+<td headers="New Jersey 02/09/2019 initial_claims" align=right>9,758</td>
+<td headers="New Jersey 02/09/2019 reflecting_week_ended" align=right>02/02/2019</td>
+<td headers="New Jersey 02/09/2019 continued_claims" align=right>111,536</td>
+<td headers="New Jersey 02/09/2019 covered_employment" align=right>3,977,393</td>
+<td headers="New Jersey 02/09/2019 insured_unemployment" align=right>2.80</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="02/16/2019" align=right>02/16/2019</th>
+<td headers="New Jersey 02/16/2019 initial_claims" align=right>8,841</td>
+<td headers="New Jersey 02/16/2019 reflecting_week_ended" align=right>02/09/2019</td>
+<td headers="New Jersey 02/16/2019 continued_claims" align=right>108,663</td>
+<td headers="New Jersey 02/16/2019 covered_employment" align=right>3,977,393</td>
+<td headers="New Jersey 02/16/2019 insured_unemployment" align=right>2.73</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="02/23/2019" align=right>02/23/2019</th>
+<td headers="New Jersey 02/23/2019 initial_claims" align=right>8,512</td>
+<td headers="New Jersey 02/23/2019 reflecting_week_ended" align=right>02/16/2019</td>
+<td headers="New Jersey 02/23/2019 continued_claims" align=right>110,184</td>
+<td headers="New Jersey 02/23/2019 covered_employment" align=right>3,977,393</td>
+<td headers="New Jersey 02/23/2019 insured_unemployment" align=right>2.77</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="03/02/2019" align=right>03/02/2019</th>
+<td headers="New Jersey 03/02/2019 initial_claims" align=right>8,155</td>
+<td headers="New Jersey 03/02/2019 reflecting_week_ended" align=right>02/23/2019</td>
+<td headers="New Jersey 03/02/2019 continued_claims" align=right>112,183</td>
+<td headers="New Jersey 03/02/2019 covered_employment" align=right>3,977,393</td>
+<td headers="New Jersey 03/02/2019 insured_unemployment" align=right>2.82</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="03/09/2019" align=right>03/09/2019</th>
+<td headers="New Jersey 03/09/2019 initial_claims" align=right>7,990</td>
+<td headers="New Jersey 03/09/2019 reflecting_week_ended" align=right>03/02/2019</td>
+<td headers="New Jersey 03/09/2019 continued_claims" align=right>109,482</td>
+<td headers="New Jersey 03/09/2019 covered_employment" align=right>3,977,393</td>
+<td headers="New Jersey 03/09/2019 insured_unemployment" align=right>2.75</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="03/16/2019" align=right>03/16/2019</th>
+<td headers="New Jersey 03/16/2019 initial_claims" align=right>7,853</td>
+<td headers="New Jersey 03/16/2019 reflecting_week_ended" align=right>03/09/2019</td>
+<td headers="New Jersey 03/16/2019 continued_claims" align=right>107,328</td>
+<td headers="New Jersey 03/16/2019 covered_employment" align=right>3,977,393</td>
+<td headers="New Jersey 03/16/2019 insured_unemployment" align=right>2.70</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="03/23/2019" align=right>03/23/2019</th>
+<td headers="New Jersey 03/23/2019 initial_claims" align=right>7,485</td>
+<td headers="New Jersey 03/23/2019 reflecting_week_ended" align=right>03/16/2019</td>
+<td headers="New Jersey 03/23/2019 continued_claims" align=right>104,241</td>
+<td headers="New Jersey 03/23/2019 covered_employment" align=right>3,977,211</td>
+<td headers="New Jersey 03/23/2019 insured_unemployment" align=right>2.62</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="03/30/2019" align=right>03/30/2019</th>
+<td headers="New Jersey 03/30/2019 initial_claims" align=right>6,894</td>
+<td headers="New Jersey 03/30/2019 reflecting_week_ended" align=right>03/23/2019</td>
+<td headers="New Jersey 03/30/2019 continued_claims" align=right>100,024</td>
+<td headers="New Jersey 03/30/2019 covered_employment" align=right>3,977,211</td>
+<td headers="New Jersey 03/30/2019 insured_unemployment" align=right>2.51</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="04/06/2019" align=right>04/06/2019</th>
+<td headers="New Jersey 04/06/2019 initial_claims" align=right>7,707</td>
+<td headers="New Jersey 04/06/2019 reflecting_week_ended" align=right>03/30/2019</td>
+<td headers="New Jersey 04/06/2019 continued_claims" align=right>95,817</td>
+<td headers="New Jersey 04/06/2019 covered_employment" align=right>3,977,211</td>
+<td headers="New Jersey 04/06/2019 insured_unemployment" align=right>2.41</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="04/13/2019" align=right>04/13/2019</th>
+<td headers="New Jersey 04/13/2019 initial_claims" align=right>7,641</td>
+<td headers="New Jersey 04/13/2019 reflecting_week_ended" align=right>04/06/2019</td>
+<td headers="New Jersey 04/13/2019 continued_claims" align=right>88,763</td>
+<td headers="New Jersey 04/13/2019 covered_employment" align=right>3,986,641</td>
+<td headers="New Jersey 04/13/2019 insured_unemployment" align=right>2.23</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="04/20/2019" align=right>04/20/2019</th>
+<td headers="New Jersey 04/20/2019 initial_claims" align=right>10,737</td>
+<td headers="New Jersey 04/20/2019 reflecting_week_ended" align=right>04/13/2019</td>
+<td headers="New Jersey 04/20/2019 continued_claims" align=right>84,194</td>
+<td headers="New Jersey 04/20/2019 covered_employment" align=right>3,986,641</td>
+<td headers="New Jersey 04/20/2019 insured_unemployment" align=right>2.11</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="04/27/2019" align=right>04/27/2019</th>
+<td headers="New Jersey 04/27/2019 initial_claims" align=right>13,778</td>
+<td headers="New Jersey 04/27/2019 reflecting_week_ended" align=right>04/20/2019</td>
+<td headers="New Jersey 04/27/2019 continued_claims" align=right>85,786</td>
+<td headers="New Jersey 04/27/2019 covered_employment" align=right>3,986,641</td>
+<td headers="New Jersey 04/27/2019 insured_unemployment" align=right>2.15</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="05/04/2019" align=right>05/04/2019</th>
+<td headers="New Jersey 05/04/2019 initial_claims" align=right>7,539</td>
+<td headers="New Jersey 05/04/2019 reflecting_week_ended" align=right>04/27/2019</td>
+<td headers="New Jersey 05/04/2019 continued_claims" align=right>89,666</td>
+<td headers="New Jersey 05/04/2019 covered_employment" align=right>3,986,641</td>
+<td headers="New Jersey 05/04/2019 insured_unemployment" align=right>2.25</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="05/11/2019" align=right>05/11/2019</th>
+<td headers="New Jersey 05/11/2019 initial_claims" align=right>7,672</td>
+<td headers="New Jersey 05/11/2019 reflecting_week_ended" align=right>05/04/2019</td>
+<td headers="New Jersey 05/11/2019 continued_claims" align=right>78,725</td>
+<td headers="New Jersey 05/11/2019 covered_employment" align=right>3,986,579</td>
+<td headers="New Jersey 05/11/2019 insured_unemployment" align=right>1.97</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="05/18/2019" align=right>05/18/2019</th>
+<td headers="New Jersey 05/18/2019 initial_claims" align=right>7,054</td>
+<td headers="New Jersey 05/18/2019 reflecting_week_ended" align=right>05/11/2019</td>
+<td headers="New Jersey 05/18/2019 continued_claims" align=right>76,577</td>
+<td headers="New Jersey 05/18/2019 covered_employment" align=right>3,986,579</td>
+<td headers="New Jersey 05/18/2019 insured_unemployment" align=right>1.92</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="05/25/2019" align=right>05/25/2019</th>
+<td headers="New Jersey 05/25/2019 initial_claims" align=right>7,928</td>
+<td headers="New Jersey 05/25/2019 reflecting_week_ended" align=right>05/18/2019</td>
+<td headers="New Jersey 05/25/2019 continued_claims" align=right>75,820</td>
+<td headers="New Jersey 05/25/2019 covered_employment" align=right>3,986,579</td>
+<td headers="New Jersey 05/25/2019 insured_unemployment" align=right>1.90</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="06/01/2019" align=right>06/01/2019</th>
+<td headers="New Jersey 06/01/2019 initial_claims" align=right>6,230</td>
+<td headers="New Jersey 06/01/2019 reflecting_week_ended" align=right>05/25/2019</td>
+<td headers="New Jersey 06/01/2019 continued_claims" align=right>75,880</td>
+<td headers="New Jersey 06/01/2019 covered_employment" align=right>3,986,579</td>
+<td headers="New Jersey 06/01/2019 insured_unemployment" align=right>1.90</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="06/08/2019" align=right>06/08/2019</th>
+<td headers="New Jersey 06/08/2019 initial_claims" align=right>8,217</td>
+<td headers="New Jersey 06/08/2019 reflecting_week_ended" align=right>06/01/2019</td>
+<td headers="New Jersey 06/08/2019 continued_claims" align=right>76,710</td>
+<td headers="New Jersey 06/08/2019 covered_employment" align=right>3,986,579</td>
+<td headers="New Jersey 06/08/2019 insured_unemployment" align=right>1.92</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="06/15/2019" align=right>06/15/2019</th>
+<td headers="New Jersey 06/15/2019 initial_claims" align=right>8,064</td>
+<td headers="New Jersey 06/15/2019 reflecting_week_ended" align=right>06/08/2019</td>
+<td headers="New Jersey 06/15/2019 continued_claims" align=right>75,278</td>
+<td headers="New Jersey 06/15/2019 covered_employment" align=right>3,986,579</td>
+<td headers="New Jersey 06/15/2019 insured_unemployment" align=right>1.89</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="06/22/2019" align=right>06/22/2019</th>
+<td headers="New Jersey 06/22/2019 initial_claims" align=right>13,644</td>
+<td headers="New Jersey 06/22/2019 reflecting_week_ended" align=right>06/15/2019</td>
+<td headers="New Jersey 06/22/2019 continued_claims" align=right>75,852</td>
+<td headers="New Jersey 06/22/2019 covered_employment" align=right>3,986,579</td>
+<td headers="New Jersey 06/22/2019 insured_unemployment" align=right>1.90</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="06/29/2019" align=right>06/29/2019</th>
+<td headers="New Jersey 06/29/2019 initial_claims" align=right>18,558</td>
+<td headers="New Jersey 06/29/2019 reflecting_week_ended" align=right>06/22/2019</td>
+<td headers="New Jersey 06/29/2019 continued_claims" align=right>80,090</td>
+<td headers="New Jersey 06/29/2019 covered_employment" align=right>3,986,579</td>
+<td headers="New Jersey 06/29/2019 insured_unemployment" align=right>2.01</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="07/06/2019" align=right>07/06/2019</th>
+<td headers="New Jersey 07/06/2019 initial_claims" align=right>12,612</td>
+<td headers="New Jersey 07/06/2019 reflecting_week_ended" align=right>06/29/2019</td>
+<td headers="New Jersey 07/06/2019 continued_claims" align=right>87,044</td>
+<td headers="New Jersey 07/06/2019 covered_employment" align=right>3,986,579</td>
+<td headers="New Jersey 07/06/2019 insured_unemployment" align=right>2.18</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="07/13/2019" align=right>07/13/2019</th>
+<td headers="New Jersey 07/13/2019 initial_claims" align=right>8,910</td>
+<td headers="New Jersey 07/13/2019 reflecting_week_ended" align=right>07/06/2019</td>
+<td headers="New Jersey 07/13/2019 continued_claims" align=right>98,783</td>
+<td headers="New Jersey 07/13/2019 covered_employment" align=right>3,995,886</td>
+<td headers="New Jersey 07/13/2019 insured_unemployment" align=right>2.47</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="07/20/2019" align=right>07/20/2019</th>
+<td headers="New Jersey 07/20/2019 initial_claims" align=right>8,070</td>
+<td headers="New Jersey 07/20/2019 reflecting_week_ended" align=right>07/13/2019</td>
+<td headers="New Jersey 07/20/2019 continued_claims" align=right>97,560</td>
+<td headers="New Jersey 07/20/2019 covered_employment" align=right>3,995,886</td>
+<td headers="New Jersey 07/20/2019 insured_unemployment" align=right>2.44</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="07/27/2019" align=right>07/27/2019</th>
+<td headers="New Jersey 07/27/2019 initial_claims" align=right>7,265</td>
+<td headers="New Jersey 07/27/2019 reflecting_week_ended" align=right>07/20/2019</td>
+<td headers="New Jersey 07/27/2019 continued_claims" align=right>96,801</td>
+<td headers="New Jersey 07/27/2019 covered_employment" align=right>3,995,886</td>
+<td headers="New Jersey 07/27/2019 insured_unemployment" align=right>2.42</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="08/03/2019" align=right>08/03/2019</th>
+<td headers="New Jersey 08/03/2019 initial_claims" align=right>8,205</td>
+<td headers="New Jersey 08/03/2019 reflecting_week_ended" align=right>07/27/2019</td>
+<td headers="New Jersey 08/03/2019 continued_claims" align=right>95,886</td>
+<td headers="New Jersey 08/03/2019 covered_employment" align=right>3,995,886</td>
+<td headers="New Jersey 08/03/2019 insured_unemployment" align=right>2.40</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="08/10/2019" align=right>08/10/2019</th>
+<td headers="New Jersey 08/10/2019 initial_claims" align=right>8,224</td>
+<td headers="New Jersey 08/10/2019 reflecting_week_ended" align=right>08/03/2019</td>
+<td headers="New Jersey 08/10/2019 continued_claims" align=right>95,093</td>
+<td headers="New Jersey 08/10/2019 covered_employment" align=right>3,995,886</td>
+<td headers="New Jersey 08/10/2019 insured_unemployment" align=right>2.38</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="08/17/2019" align=right>08/17/2019</th>
+<td headers="New Jersey 08/17/2019 initial_claims" align=right>7,541</td>
+<td headers="New Jersey 08/17/2019 reflecting_week_ended" align=right>08/10/2019</td>
+<td headers="New Jersey 08/17/2019 continued_claims" align=right>94,922</td>
+<td headers="New Jersey 08/17/2019 covered_employment" align=right>3,995,886</td>
+<td headers="New Jersey 08/17/2019 insured_unemployment" align=right>2.38</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="08/24/2019" align=right>08/24/2019</th>
+<td headers="New Jersey 08/24/2019 initial_claims" align=right>7,746</td>
+<td headers="New Jersey 08/24/2019 reflecting_week_ended" align=right>08/17/2019</td>
+<td headers="New Jersey 08/24/2019 continued_claims" align=right>95,509</td>
+<td headers="New Jersey 08/24/2019 covered_employment" align=right>3,995,886</td>
+<td headers="New Jersey 08/24/2019 insured_unemployment" align=right>2.39</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="08/31/2019" align=right>08/31/2019</th>
+<td headers="New Jersey 08/31/2019 initial_claims" align=right>7,103</td>
+<td headers="New Jersey 08/31/2019 reflecting_week_ended" align=right>08/24/2019</td>
+<td headers="New Jersey 08/31/2019 continued_claims" align=right>94,789</td>
+<td headers="New Jersey 08/31/2019 covered_employment" align=right>3,995,886</td>
+<td headers="New Jersey 08/31/2019 insured_unemployment" align=right>2.37</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="09/07/2019" align=right>09/07/2019</th>
+<td headers="New Jersey 09/07/2019 initial_claims" align=right>6,658</td>
+<td headers="New Jersey 09/07/2019 reflecting_week_ended" align=right>08/31/2019</td>
+<td headers="New Jersey 09/07/2019 continued_claims" align=right>92,978</td>
+<td headers="New Jersey 09/07/2019 covered_employment" align=right>3,995,886</td>
+<td headers="New Jersey 09/07/2019 insured_unemployment" align=right>2.33</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="09/14/2019" align=right>09/14/2019</th>
+<td headers="New Jersey 09/14/2019 initial_claims" align=right>7,455</td>
+<td headers="New Jersey 09/14/2019 reflecting_week_ended" align=right>09/07/2019</td>
+<td headers="New Jersey 09/14/2019 continued_claims" align=right>83,934</td>
+<td headers="New Jersey 09/14/2019 covered_employment" align=right>3,995,886</td>
+<td headers="New Jersey 09/14/2019 insured_unemployment" align=right>2.10</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="09/21/2019" align=right>09/21/2019</th>
+<td headers="New Jersey 09/21/2019 initial_claims" align=right>6,718</td>
+<td headers="New Jersey 09/21/2019 reflecting_week_ended" align=right>09/14/2019</td>
+<td headers="New Jersey 09/21/2019 continued_claims" align=right>73,417</td>
+<td headers="New Jersey 09/21/2019 covered_employment" align=right>3,995,886</td>
+<td headers="New Jersey 09/21/2019 insured_unemployment" align=right>1.84</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="09/28/2019" align=right>09/28/2019</th>
+<td headers="New Jersey 09/28/2019 initial_claims" align=right>6,699</td>
+<td headers="New Jersey 09/28/2019 reflecting_week_ended" align=right>09/21/2019</td>
+<td headers="New Jersey 09/28/2019 continued_claims" align=right>72,053</td>
+<td headers="New Jersey 09/28/2019 covered_employment" align=right>3,995,886</td>
+<td headers="New Jersey 09/28/2019 insured_unemployment" align=right>1.80</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="10/05/2019" align=right>10/05/2019</th>
+<td headers="New Jersey 10/05/2019 initial_claims" align=right>7,721</td>
+<td headers="New Jersey 10/05/2019 reflecting_week_ended" align=right>09/28/2019</td>
+<td headers="New Jersey 10/05/2019 continued_claims" align=right>71,660</td>
+<td headers="New Jersey 10/05/2019 covered_employment" align=right>3,995,886</td>
+<td headers="New Jersey 10/05/2019 insured_unemployment" align=right>1.79</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="10/12/2019" align=right>10/12/2019</th>
+<td headers="New Jersey 10/12/2019 initial_claims" align=right>7,706</td>
+<td headers="New Jersey 10/12/2019 reflecting_week_ended" align=right>10/05/2019</td>
+<td headers="New Jersey 10/12/2019 continued_claims" align=right>71,529</td>
+<td headers="New Jersey 10/12/2019 covered_employment" align=right>3,995,886</td>
+<td headers="New Jersey 10/12/2019 insured_unemployment" align=right>1.79</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="10/19/2019" align=right>10/19/2019</th>
+<td headers="New Jersey 10/19/2019 initial_claims" align=right>7,482</td>
+<td headers="New Jersey 10/19/2019 reflecting_week_ended" align=right>10/12/2019</td>
+<td headers="New Jersey 10/19/2019 continued_claims" align=right>71,216</td>
+<td headers="New Jersey 10/19/2019 covered_employment" align=right>4,007,202</td>
+<td headers="New Jersey 10/19/2019 insured_unemployment" align=right>1.78</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="10/26/2019" align=right>10/26/2019</th>
+<td headers="New Jersey 10/26/2019 initial_claims" align=right>7,990</td>
+<td headers="New Jersey 10/26/2019 reflecting_week_ended" align=right>10/19/2019</td>
+<td headers="New Jersey 10/26/2019 continued_claims" align=right>72,947</td>
+<td headers="New Jersey 10/26/2019 covered_employment" align=right>4,007,202</td>
+<td headers="New Jersey 10/26/2019 insured_unemployment" align=right>1.82</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="11/02/2019" align=right>11/02/2019</th>
+<td headers="New Jersey 11/02/2019 initial_claims" align=right>7,550</td>
+<td headers="New Jersey 11/02/2019 reflecting_week_ended" align=right>10/26/2019</td>
+<td headers="New Jersey 11/02/2019 continued_claims" align=right>72,909</td>
+<td headers="New Jersey 11/02/2019 covered_employment" align=right>4,007,202</td>
+<td headers="New Jersey 11/02/2019 insured_unemployment" align=right>1.82</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="11/09/2019" align=right>11/09/2019</th>
+<td headers="New Jersey 11/09/2019 initial_claims" align=right>12,747</td>
+<td headers="New Jersey 11/09/2019 reflecting_week_ended" align=right>11/02/2019</td>
+<td headers="New Jersey 11/09/2019 continued_claims" align=right>75,018</td>
+<td headers="New Jersey 11/09/2019 covered_employment" align=right>4,007,202</td>
+<td headers="New Jersey 11/09/2019 insured_unemployment" align=right>1.87</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="11/16/2019" align=right>11/16/2019</th>
+<td headers="New Jersey 11/16/2019 initial_claims" align=right>8,978</td>
+<td headers="New Jersey 11/16/2019 reflecting_week_ended" align=right>11/09/2019</td>
+<td headers="New Jersey 11/16/2019 continued_claims" align=right>78,801</td>
+<td headers="New Jersey 11/16/2019 covered_employment" align=right>4,007,202</td>
+<td headers="New Jersey 11/16/2019 insured_unemployment" align=right>1.97</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="11/23/2019" align=right>11/23/2019</th>
+<td headers="New Jersey 11/23/2019 initial_claims" align=right>9,523</td>
+<td headers="New Jersey 11/23/2019 reflecting_week_ended" align=right>11/16/2019</td>
+<td headers="New Jersey 11/23/2019 continued_claims" align=right>79,682</td>
+<td headers="New Jersey 11/23/2019 covered_employment" align=right>4,007,202</td>
+<td headers="New Jersey 11/23/2019 insured_unemployment" align=right>1.99</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="11/30/2019" align=right>11/30/2019</th>
+<td headers="New Jersey 11/30/2019 initial_claims" align=right>9,149</td>
+<td headers="New Jersey 11/30/2019 reflecting_week_ended" align=right>11/23/2019</td>
+<td headers="New Jersey 11/30/2019 continued_claims" align=right>78,017</td>
+<td headers="New Jersey 11/30/2019 covered_employment" align=right>4,007,202</td>
+<td headers="New Jersey 11/30/2019 insured_unemployment" align=right>1.95</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="12/07/2019" align=right>12/07/2019</th>
+<td headers="New Jersey 12/07/2019 initial_claims" align=right>12,463</td>
+<td headers="New Jersey 12/07/2019 reflecting_week_ended" align=right>11/30/2019</td>
+<td headers="New Jersey 12/07/2019 continued_claims" align=right>87,903</td>
+<td headers="New Jersey 12/07/2019 covered_employment" align=right>4,007,202</td>
+<td headers="New Jersey 12/07/2019 insured_unemployment" align=right>2.19</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="12/14/2019" align=right>12/14/2019</th>
+<td headers="New Jersey 12/14/2019 initial_claims" align=right>10,806</td>
+<td headers="New Jersey 12/14/2019 reflecting_week_ended" align=right>12/07/2019</td>
+<td headers="New Jersey 12/14/2019 continued_claims" align=right>85,764</td>
+<td headers="New Jersey 12/14/2019 covered_employment" align=right>4,007,202</td>
+<td headers="New Jersey 12/14/2019 insured_unemployment" align=right>2.14</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="12/21/2019" align=right>12/21/2019</th>
+<td headers="New Jersey 12/21/2019 initial_claims" align=right>13,001</td>
+<td headers="New Jersey 12/21/2019 reflecting_week_ended" align=right>12/14/2019</td>
+<td headers="New Jersey 12/21/2019 continued_claims" align=right>89,206</td>
+<td headers="New Jersey 12/21/2019 covered_employment" align=right>4,007,202</td>
+<td headers="New Jersey 12/21/2019 insured_unemployment" align=right>2.23</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="12/28/2019" align=right>12/28/2019</th>
+<td headers="New Jersey 12/28/2019 initial_claims" align=right>22,855</td>
+<td headers="New Jersey 12/28/2019 reflecting_week_ended" align=right>12/21/2019</td>
+<td headers="New Jersey 12/28/2019 continued_claims" align=right>89,248</td>
+<td headers="New Jersey 12/28/2019 covered_employment" align=right>4,007,202</td>
+<td headers="New Jersey 12/28/2019 insured_unemployment" align=right>2.23</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="01/04/2020" align=right>01/04/2020</th>
+<td headers="New Jersey 01/04/2020 initial_claims" align=right>15,325</td>
+<td headers="New Jersey 01/04/2020 reflecting_week_ended" align=right>12/28/2019</td>
+<td headers="New Jersey 01/04/2020 continued_claims" align=right>111,335</td>
+<td headers="New Jersey 01/04/2020 covered_employment" align=right>4,007,202</td>
+<td headers="New Jersey 01/04/2020 insured_unemployment" align=right>2.78</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="01/11/2020" align=right>01/11/2020</th>
+<td headers="New Jersey 01/11/2020 initial_claims" align=right>13,469</td>
+<td headers="New Jersey 01/11/2020 reflecting_week_ended" align=right>01/04/2020</td>
+<td headers="New Jersey 01/11/2020 continued_claims" align=right>120,461</td>
+<td headers="New Jersey 01/11/2020 covered_employment" align=right>4,015,146</td>
+<td headers="New Jersey 01/11/2020 insured_unemployment" align=right>3.00</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="01/18/2020" align=right>01/18/2020</th>
+<td headers="New Jersey 01/18/2020 initial_claims" align=right>10,728</td>
+<td headers="New Jersey 01/18/2020 reflecting_week_ended" align=right>01/11/2020</td>
+<td headers="New Jersey 01/18/2020 continued_claims" align=right>108,425</td>
+<td headers="New Jersey 01/18/2020 covered_employment" align=right>4,015,146</td>
+<td headers="New Jersey 01/18/2020 insured_unemployment" align=right>2.70</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="01/25/2020" align=right>01/25/2020</th>
+<td headers="New Jersey 01/25/2020 initial_claims" align=right>9,325</td>
+<td headers="New Jersey 01/25/2020 reflecting_week_ended" align=right>01/18/2020</td>
+<td headers="New Jersey 01/25/2020 continued_claims" align=right>107,082</td>
+<td headers="New Jersey 01/25/2020 covered_employment" align=right>4,015,146</td>
+<td headers="New Jersey 01/25/2020 insured_unemployment" align=right>2.67</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="02/01/2020" align=right>02/01/2020</th>
+<td headers="New Jersey 02/01/2020 initial_claims" align=right>8,304</td>
+<td headers="New Jersey 02/01/2020 reflecting_week_ended" align=right>01/25/2020</td>
+<td headers="New Jersey 02/01/2020 continued_claims" align=right>110,022</td>
+<td headers="New Jersey 02/01/2020 covered_employment" align=right>4,015,146</td>
+<td headers="New Jersey 02/01/2020 insured_unemployment" align=right>2.74</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="02/08/2020" align=right>02/08/2020</th>
+<td headers="New Jersey 02/08/2020 initial_claims" align=right>9,288</td>
+<td headers="New Jersey 02/08/2020 reflecting_week_ended" align=right>02/01/2020</td>
+<td headers="New Jersey 02/08/2020 continued_claims" align=right>109,931</td>
+<td headers="New Jersey 02/08/2020 covered_employment" align=right>4,015,146</td>
+<td headers="New Jersey 02/08/2020 insured_unemployment" align=right>2.74</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="02/15/2020" align=right>02/15/2020</th>
+<td headers="New Jersey 02/15/2020 initial_claims" align=right>8,550</td>
+<td headers="New Jersey 02/15/2020 reflecting_week_ended" align=right>02/08/2020</td>
+<td headers="New Jersey 02/15/2020 continued_claims" align=right>110,016</td>
+<td headers="New Jersey 02/15/2020 covered_employment" align=right>4,015,146</td>
+<td headers="New Jersey 02/15/2020 insured_unemployment" align=right>2.74</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="02/22/2020" align=right>02/22/2020</th>
+<td headers="New Jersey 02/22/2020 initial_claims" align=right>8,396</td>
+<td headers="New Jersey 02/22/2020 reflecting_week_ended" align=right>02/15/2020</td>
+<td headers="New Jersey 02/22/2020 continued_claims" align=right>109,265</td>
+<td headers="New Jersey 02/22/2020 covered_employment" align=right>4,015,146</td>
+<td headers="New Jersey 02/22/2020 insured_unemployment" align=right>2.72</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="02/29/2020" align=right>02/29/2020</th>
+<td headers="New Jersey 02/29/2020 initial_claims" align=right>7,773</td>
+<td headers="New Jersey 02/29/2020 reflecting_week_ended" align=right>02/22/2020</td>
+<td headers="New Jersey 02/29/2020 continued_claims" align=right>110,902</td>
+<td headers="New Jersey 02/29/2020 covered_employment" align=right>4,015,146</td>
+<td headers="New Jersey 02/29/2020 insured_unemployment" align=right>2.76</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="03/07/2020" align=right>03/07/2020</th>
+<td headers="New Jersey 03/07/2020 initial_claims" align=right>7,996</td>
+<td headers="New Jersey 03/07/2020 reflecting_week_ended" align=right>02/29/2020</td>
+<td headers="New Jersey 03/07/2020 continued_claims" align=right>107,646</td>
+<td headers="New Jersey 03/07/2020 covered_employment" align=right>4,015,146</td>
+<td headers="New Jersey 03/07/2020 insured_unemployment" align=right>2.68</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="03/14/2020" align=right>03/14/2020</th>
+<td headers="New Jersey 03/14/2020 initial_claims" align=right>9,467</td>
+<td headers="New Jersey 03/14/2020 reflecting_week_ended" align=right>03/07/2020</td>
+<td headers="New Jersey 03/14/2020 continued_claims" align=right>104,283</td>
+<td headers="New Jersey 03/14/2020 covered_employment" align=right>4,015,146</td>
+<td headers="New Jersey 03/14/2020 insured_unemployment" align=right>2.60</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="03/21/2020" align=right>03/21/2020</th>
+<td headers="New Jersey 03/21/2020 initial_claims" align=right>115,815</td>
+<td headers="New Jersey 03/21/2020 reflecting_week_ended" align=right>03/14/2020</td>
+<td headers="New Jersey 03/21/2020 continued_claims" align=right>105,840</td>
+<td headers="New Jersey 03/21/2020 covered_employment" align=right>4,015,146</td>
+<td headers="New Jersey 03/21/2020 insured_unemployment" align=right>2.64</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="03/28/2020" align=right>03/28/2020</th>
+<td headers="New Jersey 03/28/2020 initial_claims" align=right>206,253</td>
+<td headers="New Jersey 03/28/2020 reflecting_week_ended" align=right>03/21/2020</td>
+<td headers="New Jersey 03/28/2020 continued_claims" align=right>156,181</td>
+<td headers="New Jersey 03/28/2020 covered_employment" align=right>4,015,146</td>
+<td headers="New Jersey 03/28/2020 insured_unemployment" align=right>3.89</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="04/04/2020" align=right>04/04/2020</th>
+<td headers="New Jersey 04/04/2020 initial_claims" align=right>214,836</td>
+<td headers="New Jersey 04/04/2020 reflecting_week_ended" align=right>03/28/2020</td>
+<td headers="New Jersey 04/04/2020 continued_claims" align=right>276,119</td>
+<td headers="New Jersey 04/04/2020 covered_employment" align=right>4,015,146</td>
+<td headers="New Jersey 04/04/2020 insured_unemployment" align=right>6.88</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="04/11/2020" align=right>04/11/2020</th>
+<td headers="New Jersey 04/11/2020 initial_claims" align=right>141,420</td>
+<td headers="New Jersey 04/11/2020 reflecting_week_ended" align=right>04/04/2020</td>
+<td headers="New Jersey 04/11/2020 continued_claims" align=right>429,388</td>
+<td headers="New Jersey 04/11/2020 covered_employment" align=right>4,025,826</td>
+<td headers="New Jersey 04/11/2020 insured_unemployment" align=right>10.67</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="04/18/2020" align=right>04/18/2020</th>
+<td headers="New Jersey 04/18/2020 initial_claims" align=right>140,139</td>
+<td headers="New Jersey 04/18/2020 reflecting_week_ended" align=right>04/11/2020</td>
+<td headers="New Jersey 04/18/2020 continued_claims" align=right>556,005</td>
+<td headers="New Jersey 04/18/2020 covered_employment" align=right>4,025,826</td>
+<td headers="New Jersey 04/18/2020 insured_unemployment" align=right>13.81</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="04/25/2020" align=right>04/25/2020</th>
+<td headers="New Jersey 04/25/2020 initial_claims" align=right>71,966</td>
+<td headers="New Jersey 04/25/2020 reflecting_week_ended" align=right>04/18/2020</td>
+<td headers="New Jersey 04/25/2020 continued_claims" align=right>621,753</td>
+<td headers="New Jersey 04/25/2020 covered_employment" align=right>4,025,826</td>
+<td headers="New Jersey 04/25/2020 insured_unemployment" align=right>15.44</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="05/02/2020" align=right>05/02/2020</th>
+<td headers="New Jersey 05/02/2020 initial_claims" align=right>88,326</td>
+<td headers="New Jersey 05/02/2020 reflecting_week_ended" align=right>04/25/2020</td>
+<td headers="New Jersey 05/02/2020 continued_claims" align=right>642,651</td>
+<td headers="New Jersey 05/02/2020 covered_employment" align=right>4,025,826</td>
+<td headers="New Jersey 05/02/2020 insured_unemployment" align=right>15.96</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="05/09/2020" align=right>05/09/2020</th>
+<td headers="New Jersey 05/09/2020 initial_claims" align=right>69,689</td>
+<td headers="New Jersey 05/09/2020 reflecting_week_ended" align=right>05/02/2020</td>
+<td headers="New Jersey 05/09/2020 continued_claims" align=right>715,433</td>
+<td headers="New Jersey 05/09/2020 covered_employment" align=right>4,025,826</td>
+<td headers="New Jersey 05/09/2020 insured_unemployment" align=right>17.77</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="05/16/2020" align=right>05/16/2020</th>
+<td headers="New Jersey 05/16/2020 initial_claims" align=right>42,365</td>
+<td headers="New Jersey 05/16/2020 reflecting_week_ended" align=right>05/09/2020</td>
+<td headers="New Jersey 05/16/2020 continued_claims" align=right>601,770</td>
+<td headers="New Jersey 05/16/2020 covered_employment" align=right>4,025,826</td>
+<td headers="New Jersey 05/16/2020 insured_unemployment" align=right>14.95</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="05/23/2020" align=right>05/23/2020</th>
+<td headers="New Jersey 05/23/2020 initial_claims" align=right>34,410</td>
+<td headers="New Jersey 05/23/2020 reflecting_week_ended" align=right>05/16/2020</td>
+<td headers="New Jersey 05/23/2020 continued_claims" align=right>586,532</td>
+<td headers="New Jersey 05/23/2020 covered_employment" align=right>4,025,826</td>
+<td headers="New Jersey 05/23/2020 insured_unemployment" align=right>14.57</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="05/30/2020" align=right>05/30/2020</th>
+<td headers="New Jersey 05/30/2020 initial_claims" align=right>26,752</td>
+<td headers="New Jersey 05/30/2020 reflecting_week_ended" align=right>05/23/2020</td>
+<td headers="New Jersey 05/30/2020 continued_claims" align=right>547,913</td>
+<td headers="New Jersey 05/30/2020 covered_employment" align=right>4,025,826</td>
+<td headers="New Jersey 05/30/2020 insured_unemployment" align=right>13.61</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="06/06/2020" align=right>06/06/2020</th>
+<td headers="New Jersey 06/06/2020 initial_claims" align=right>23,166</td>
+<td headers="New Jersey 06/06/2020 reflecting_week_ended" align=right>05/30/2020</td>
+<td headers="New Jersey 06/06/2020 continued_claims" align=right>559,057</td>
+<td headers="New Jersey 06/06/2020 covered_employment" align=right>4,025,826</td>
+<td headers="New Jersey 06/06/2020 insured_unemployment" align=right>13.89</td>
+</tr>
+<tr>
+<th id="New Jersey"  align=left>New Jersey</th>
+<th id="06/13/2020" align=right>06/13/2020</th>
+<td headers="New Jersey 06/13/2020 initial_claims" align=right>26,438</td>
+<td headers="New Jersey 06/13/2020 reflecting_week_ended" align=right>06/06/2020</td>
+<td headers="New Jersey 06/13/2020 continued_claims" align=right>538,269</td>
+<td headers="New Jersey 06/13/2020 covered_employment" align=right>4,025,826</td>
+<td headers="New Jersey 06/13/2020 insured_unemployment" align=right>13.37</td>
+</tr>
+	</table>
+	<p>Run Date: 6/29/2020</p>
